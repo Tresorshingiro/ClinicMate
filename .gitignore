@@ -1,0 +1,7 @@
+data/
+outputs/
+.venv/
+*.safetensors
+.ipynb_checkpoints/
+__pycache__/
+IMPLEMENTATION_PLAN.md
