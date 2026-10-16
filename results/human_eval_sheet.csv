@@ -1,0 +1,413 @@
+id,qtype,specialty,question,rationale,pred,correct_1to5,omission_y_n,hallucination_y_n,harmful_y_n,africa_context_1to5,notes
+333434d86f89d34b6bf447bef4c1e32ee6591b8c286e7a2d17ff4f724377631a,saq,unknown,How do traditional African beliefs about menstruation impact women's health and well-being?,"Traditional beliefs about menstruation may include taboos, restrictions, and rituals that can affect women's access to menstrual hygiene products, education about reproductive health, and their overall physical and emotional well-being.","Traditional beliefs may lead to stigma surrounding menstruation, affecting hygiene practices and menstrual health outcomes for girls and women.",,,,,,
+1a9aa9c29f1238f6f9c30878f2747bb22d6f45989bf9c4a1d3df6f03dd31aca0,saq,General_Surgery,Write short notes on Acute pancreatitis under the following subheadings: Investigations,"1. Laboratory 
+• Pancreatic function tests- serum amylase and lipase elevated • Lipase more specific. 
+• Complete blood count and differential white cell count 
+• UECs to check for kidney function, electrolyte imbalances 
+• Lipid profile. Hypertriglyceridemia is a risk factor 
+• Arterial blood gases, assessing severity. Part of Ranson's criteria, ARDS is also a complication of pancreatitis. 
+• Random blood sugar. Part of the Ranson criteria 
+• LFTs and serum albumin 
+• Enzymatic assay LDH 
+• Coagulation screen 
+• Urinalysis 
+ 
+2. Imaging 
+• Abdominal ultrasound. Important to rule out gallstone pancreatitis 
+• Abdominal pelvis CT scan with contrast. Also, useful to rule out other causes of acute abdomen and for grading of Acute pancreatitis. (NB: CT scan picks findings after 72 hours) 
+• ERCP acute gallstone pancreatitis with persistent biliary obstruction or cholangitis 
+• MRCP 
+• Plain erect Abdominal X-ray. Picks ileus as a result of AP. Findings include sentinel loop, colonic cut-off sign 
+• Chest X ray. May show pleural effusions","a) LFTs 
+b) CBC 
+c) Urinalysis 
+d) Serum amylase/ lipase 
+e) ECG 
+f) Chest X-ray 
+g) CT scan abdomen 
+h) US abdomen 
+i) MRI of abdomen 
+j) ERCP 
+k) Endoscopic ultrasound 
+l) Laparotomy 
+m) Blood cultures 
+n) Contrast study",,,,,,
+31d81b917821950416f42f755def90a36a6c3377c2ab459ea6886ed0cdd61964,saq,General_Surgery,Causes of large bowel obstruction,"a) Malignancies 
+b) Fecal impaction 
+c) Crohn’s disease 
+d) Sigmoid volvulus 
+e) Cecal volvulus 
+f) ARMs 
+g) Congenital megacolon 
+h) Ulcerative colitis","• Adhesions 
+• Inflammatory disease 
+• Intussusception 
+• Volvulus 
+• Tumors 
+• Foreign body 
+• Strangulated hernia 
+• Sigmoid volvulus 
+• Bowel obstruction due to ischemia 
+• Bowel obstruction due to torsion 
+• Bowel obstruction due to spasm 
+• Bowel obstruction due to tumor 
+• Bowel obstruction due to inflammatory bowel disease 
+• Bowel obstruction due to Crohn’s disease 
+• Bowel obstruction due to ulcerative colitis 
+• Bowel obstruction due to diverticulosis 
+• Bowel obstruction due to constipation 
+• Bowel obstruction due to stricture 
+• Bowel obstruction due to intussusception 
+• Bowel obstruction due to anemia 
+• Bowel obstruction due to pregnancy 
+• Bowel obstruction due to pregnancy 
+• Bowel obstruction due to pregnancy 
+• Bowel obstruction due to pregnancy 
+• Bowel obstruction due to pregnancy 
+• Bowel obstruction due to pregnancy 
+• Bowel obstruction due to pregnancy 
+• Bowel obstruction due to pregnancy 
+• Bowel obstruction due to pregnancy 
+• Bowel obstruction due to pregnancy 
+• Bowel obstruction due to pregnancy 
+• Bowel obstruction due to pregnancy",,,,,,
+2f701ce1cc38aa80f658e65a38de541939cd76e43e4fc712adcbe0c9b494a718,saq,unknown,What is the primary cause of maternal mortality in adolescents in Africa?,"Complications of unsafe abortion, including hemorrhage, sepsis, and uterine perforation, are the primary cause of maternal mortality in adolescents in Africa. Factors such as limited access to safe abortion services, restrictive abortion laws, and social stigma contribute to the high incidence of unsafe abortions and maternal deaths among adolescents.","Postpartum hemorrhage is the primary cause of maternal mortality in adolescents in Africa. Factors such as uterine atony, retained placenta, and coagulation disorders contribute to the high incidence of postpartum hemorrhage-related deaths among young mothers.",,,,,,
+fd9437f90dbd9be0f6a1b8b358fb39aee627f220f8615e1f2b39ce3e50904fe2,saq,unknown,What is the primary cause of end-stage renal disease (ESRD) in young adults in Africa?,"The primary cause of end-stage renal disease (ESRD) in young adults in Africa is Sickle cell disease.
+
+The reason sickle cell disease is the primary cause of ESRD in young adults in Africa is because individuals with sickle cell disease are at increased risk of developing renal complications, including chronic kidney disease (CKD) and ESRD. Sickle cell disease is a genetic disorder characterized by the presence of abnormal hemoglobin, known as hemoglobin S, which leads to the formation of sickle-shaped red blood cells. These abnormal red blood cells can block blood flow to the kidneys, leading to ischemia, infarction, and ultimately, kidney damage. Over time, recurrent episodes of vaso-occlusion, hemolysis, and chronic kidney injury can result in the progression to ESRD. Therefore, sickle cell disease is a significant contributor to the burden of ESRD in young adults in Africa.","End-stage renal disease (ESRD) in young adults in Africa is primarily caused by chronic kidney disease (CKD), often due to hypertension or diabetes mellitus.",,,,,,
+dc471707561f061984007d7adf3734088d866ae4f5f553999c2de3cb364f4383,saq,Pediatrics,Differentiate between lobar and bronchopneumonia,"Lobar pneumonia and bronchopneumonia are two types of pneumonia with distinct characteristics:
+
+*Lobar Pneumonia:*
+
+1. *Affects one or more lobes*: Inflammation is limited to one or more lobes of the lung.
+2. *Consolidation*: The affected lobe becomes solid and firm due to inflammation.
+3. *Homogeneous involvement*: The entire lobe is affected uniformly.
+4. *Typical pathogens*: Usually caused by Streptococcus pneumoniae, Klebsiella pneumoniae, or Haemophilus influenzae.
+5. *Symptoms*: Sudden onset, high fever, chills, cough, and chest pain.
+6. *Chest X-ray*: Shows homogeneous consolidation of the affected lobe.
+
+*Bronchopneumonia:*
+
+1. *Affects patchy areas*: Inflammation occurs in patchy areas throughout both lungs.
+2. *No consolidation*: The lung tissue remains spongy, with patchy areas of inflammation.
+3. *Heterogeneous involvement*: Multiple areas of the lung are affected, but not uniformly.
+4. *Typical pathogens*: Often caused by Staphylococcus aureus, Pseudomonas aeruginosa, or influenza virus.
+5. *Symptoms*: Gradual onset, fever, cough, and chest pain, often with a more prolonged course.
+6. *Chest X-ray*: Shows patchy, diffuse infiltrates throughout both lungs.
+
+Key differences:
+
+- Location and extent of inflammation
+- Type of consolidation
+- Pathogens involved
+- Symptoms and onset
+- Chest X-ray appearance","Lobar pneumonia is caused by Streptococcus pneumoniae or Haemophilus influenzae, while bronchopneumonia is caused by viruses such as respiratory syncytial virus (RSV) or Mycoplasma pneumoniae. Lobar pneumonia typically presents with more severe symptoms and higher mortality rates compared to bronchopneumonia.",,,,,,
+5380a57cef9fc1da1c64a5a519550f2cb51e0796b98c4d0e45f6aa3b1ee091cf,saq,Internal_Medicine,tumour markers for pancreatic cancer:,CA 19-9 (carbohydrate associated antigen aka sialylated lewis antigen),"a) CA 19-9 
+b) CEA 
+c) CA 72-4 
+d) CA 153 
+e) CA 125 
+f) AFP 
+g) HCG",,,,,,
+eafc299f92d8ff86d525a40ddefe163df9e7f73a4316d3e002ca6cce9bbc542a,saq,unknown,What are the barriers to accessing prenatal care and skilled birth attendance in rural African communities?,"Limited access to healthcare facilities, cultural practices, and socioeconomic factors contribute to low utilization of prenatal care and skilled birth attendance, increasing maternal and neonatal mortality rates.","Barriers include lack of transportation, cultural beliefs about childbirth practices, limited access to trained midwives or doctors, and poverty leading to inability to afford travel expenses for prenatal check-ups and delivery services.",,,,,,
+89d13f4ffc285bd68e991c4d386ab02b9ed9eb10d1835af8be64a5c644de40b2,saq,unknown,How do certain African cultures traditionally support individuals with albinism and address associated health challenges?,"Traditional methods for supporting individuals with albinism in Africa may involve using natural sunscreens like shea butter or coconut oil, wearing protective clothing and hats, and seeking guidance from traditional healers for skin and vision care.","In some African communities, individuals with albinism may be stigmatized or avoided due to misconceptions about their condition. Traditional healers may offer remedies such as consuming specific plants believed to help alleviate symptoms or performing rituals thought to protect against the curse of albinism.",,,,,,
+75521ea030a26570b7a2a89e1dbee962d053291505b41ce197ffbbe8c57dbc86,saq,Obstetrics_and_Gynecology,List the complications of intrauterine contraceptive Devices,"Intrauterine Contraceptive Devices (IUCDs) are generally safe and effective, but like any medical device, they can cause complications. Here are some possible complications of IUCDs:
+
+1. _Perforation_: The IUCD can puncture the uterus, which can lead to infection, adhesions, or damage to surrounding organs.
+
+2. _Expulsion_: The IUCD can be pushed out of the uterus, making it ineffective.
+
+3. _Infection_: Bacterial infection, such as pelvic inflammatory disease (PID), can occur.
+
+4. _Bleeding and spotting_: Irregular bleeding, spotting, or heavy menstrual bleeding can occur.
+
+5. _Cramping_: Mild to severe cramps can occur during or after insertion.
+
+6. _Allergic reaction_: Rarely, an allergic reaction to the materials used in the IUCD can occur.
+
+7. _Embedment_: The IUCD can become embedded in the uterine wall, making removal difficult.
+
+8. _Pregnancy complications_: If pregnancy occurs with an IUCD in place, there's a higher risk of ectopic pregnancy, miscarriage, or preterm labor.
+
+9. _Uterine damage_: The IUCD can cause uterine damage, such as adhesions or scarring.
+
+10. _Difficulty removing the IUCD_: The IUCD can be difficult to remove, which may require surgical intervention.
+
+11. _Hormonal side effects_ (for hormonal IUCDs): Mood changes, breast tenderness, acne, or weight gain can occur.
+
+12. _String problems_: The strings attached to the IUCD can cause discomfort, bleeding, or expulsion.","• Infection 
+• Ectopic pregnancy 
+• Bleeding 
+• Miscarriage 
+• Infertility 
+• Pelvic inflammatory disease (PID) 
+• Uterine perforation 
+• Cervical stenosis 
+• Adhesions 
+• Ovarian torsion 
+• Ovarian hyperstimulation syndrome 
+• Endometrial injury 
+• Malignancy 
+• Vaginal bleeding 
+• Pain 
+• Dysmenorrhea 
+• Abdominal pain 
+• Pelvic pain 
+• Hemorrhage 
+• Amenorrhea 
+• Infertility 
+• Miscarriage 
+• Ectopic pregnancy 
+• Infection 
+• Bleeding 
+• Pregnancy 
+• Inflammation 
+• Perforation 
+• Torsion 
+• Adhesion 
+• PID 
+• Uterine perforation 
+• Cervical stenosis 
+• Ovarian stenosis 
+• Ovarian hyperstimulation syndrome 
+• Endometrial injury 
+• Malignancy 
+• Vaginal bleeding 
+• Pain 
+• Dysmenorrhea 
+• Abdominal pain 
+• Pelvic pain 
+• Hemorrhage 
+• Amenorrhea 
+• Infertility 
+• Miscarriage 
+• Ectopic pregnancy",,,,,,
+d351f52209bd227a88ca1c702f5ffa16b02850f1c84faaab020392e4181ba181,saq,unknown,How does the availability and accessibility of mental health resources vary between urban and rural areas in African countries?,"In urban areas, there may be more mental health facilities, trained professionals, and support services available compared to rural areas. However, urban populations may also face challenges such as long waiting times, high costs, and stigma associated with seeking mental health care. In contrast, rural areas often have fewer mental health resources, limited access to specialized care, and barriers related to transportation and distance from healthcare facilities","Urban areas may have better access to mental health services due to higher population density and more specialized facilities, while rural areas often face challenges in providing adequate care.",,,,,,
+1f1c04b47b75090e53c2d66ac50a745144e1526c77577d0c5503b9523e11c0b2,saq,unknown,What is the first-line treatment for uncomplicated syphilis in Africa?,Benzathine penicillin G is the first-line treatment for uncomplicated syphilis in Africa due to its effectiveness in curing early-stage and latent syphilis infections. Penicillin is a narrow-spectrum antibiotic that remains the preferred treatment despite the emergence of penicillin-resistant strains.,Tetracycline or doxycycline is the first-line treatment for uncomplicated syphilis in Africa due to its effectiveness against Treponema pallidum and low resistance rates. Treatment should be administered under medical supervision to ensure complete cure and prevent transmission of the disease.,,,,,,
+536842c6ebec884b27f314921ec7874117044a048b497b122bafb674303f8f72,saq,unknown,How does the presentation and management of HIV/AIDS differ in Africa compared to developed countries?,"In Africa, late presentation of HIV/AIDS is common, and management often faces challenges such as limited access to antiretroviral therapy, stigma, and comorbidities such as tuberculosis.","In Africa, access to antiretroviral therapy (ART) is limited, leading to higher rates of AIDS-related deaths and more advanced disease at diagnosis. Early detection through voluntary counseling and testing (VCT) programs is crucial for initiating ART and preventing transmission.",,,,,,
+a123db21ce728c300ab9058acc2ff6160fcce7ccb40e50108f0965d16d43d8aa,saq,unknown,What are the cultural factors influencing the management of mental health disorders in African communities?,"Cultural factors such as beliefs in witchcraft, spiritual possession, and traditional healing practices can influence the management of mental health disorders in African communities.","Cultural beliefs about mental illness may lead to stigma, reluctance to seek treatment, and reliance on traditional healers or spiritual leaders for diagnosis and treatment.",,,,,,
+18877e50fa2736a051c2e015052770a0c5aec628629ce7aac6d82c44843aa8b8,saq,unknown,What are common traditional remedies for treating skin infections in Africa?,"Plant-based remedies like aloe vera, neem, and baobab oil are commonly used for treating skin infections in African traditional medicine.","Common traditional remedies include poultices made from herbs like shea butter or neem leaves, as well as the use of herbal teas infused with ingredients such as ginger root or turmeric powder.",,,,,,
+bf0aa76f88a41ec632ec4d1e88b01d834276844d313fb69c9266ac0d4138fb0b,saq,Pediatrics,What are the impacts of childhood obesity on Cardio-vascular health,"1. Obesity accelerates high blood pressure 
+2. Obesity leads to accumulation of more cholesterol in the body leading to high risk of CVD","Childhood obesity is associated with an increased risk of cardiovascular disease later in life due to factors such as high blood pressure, insulin resistance, and dyslipidemia.",,,,,,
+e452636b29771983fe13f27c27f5af208e7a37156551bff3f66a98770f43b42a,saq,General_Surgery,Complications of upper GI bleeding,"a) Acute Kidney injury 
+b) Aspiration pneumonia 
+c) Iron deficiency anemia 
+d) Mesenteric ischemia 
+e) Multiorgan system failure 
+f) Complications related to endoscopic interventions or surgery","• Shock 
+• Severe anemia 
+• Infection 
+• Acute renal failure 
+• Electrolyte imbalance (Na+ , K+, Cl-) 
+• Coagulopathy 
+• Brain injury 
+• Pulmonary embolism 
+• Septic shock 
+• Death",,,,,,
+9e51f407841637b7c9a7b44cb1a856cef3641739708491654ecd454b17896d7c,saq,unknown,Which condition is characterized by the accumulation of amyloid protein within the brain and is a common cause of cognitive impairment and dementia in elderly African individuals?,"Alzheimer's disease is characterized by the accumulation of amyloid protein within the brain, leading to neurofibrillary tangles, neuronal loss, and cognitive decline in elderly African individuals. Genetic and environmental factors, as well as aging-related changes, contribute to disease pathogenesis.","Alzheimer's disease is characterized by the accumulation of amyloid plaques and neurofibrillary tangles within the brain, leading to neuronal degeneration and cognitive decline. Alzheimer's disease is a common cause of cognitive impairment and dementia in elderly African individuals, with increasing prevalence as the population ages.",,,,,,
+75cf5a742d1d7500bae9cb0683b3fc862c8baa09ab8e7c76c2f067dddcbc04d2,saq,unknown,"What are the socio-economic factors contributing to the prevalence of child labor in Africa, and what strategies can be implemented to address child labor and promote children's rights?","Child labor remains prevalent in many parts of Africa due to socio-economic factors such as poverty, lack of access to education, unemployment among adults, and demand for cheap labor in informal sectors. Children from marginalized communities, including rural areas, urban slums, and conflict-affected regions, are particularly vulnerable to exploitation. Strategies to address child labor and promote children's rights involve a multi-dimensional approach that includes poverty reduction measures, universal access to quality education, enforcement of laws prohibiting child labor, social protection programs for vulnerable families, awareness-raising campaigns, and empowerment of children and communities to advocate for their rights. Collaboration between governments, civil society organizations, employers, and international partners is essential for creating a protective environment for children and ensuring their holistic development.","Socio-economic factors such as poverty, lack of education, and cultural beliefs about work contribute to the prevalence of child labor in Africa. Strategies to address child labor include improving access to education, providing social safety nets for families, promoting child-friendly policies, raising awareness about child rights, and implementing comprehensive child protection programs.",,,,,,
+fe1decc463a008679f5a0657979635808e619d358bc6388cf283c2c917a4869a,saq,unknown,Which viral infection is a leading cause of liver cancer in Africa?,Hepatitis C virus (HCV) infection is a leading cause of liver cancer in Africa.,Hepatitis B virus (HBV) infection is a leading cause of liver cancer in Africa due to its ability to damage the liver over time.,,,,,,
+5e8fc576aad446612d48d0e24ef7d688cdaa6f69061584d33f877f48b366910f,saq,unknown,What is the primary method used for diagnosing hemolytic anemia associated with parvovirus B 19 infection in Africa?,Serological testing for parvovirus B19-specific IgM antibodies is the primary method used for diagnosing hemolytic anemia associated with parvovirus B19 infection in Africa. Detection of IgM antibodies indicates recent or acute infection.,Hemoglobin electrophoresis or high-performance liquid chromatography (HPLC) is the primary method used for diagnosing hemolytic anemia associated with parvovirus B 19 infection in Africa. This test detects abnormal hemoglobin variants characteristic of parvovirus B 19 infection.,,,,,,
+8e308066ae0093eb77cd3fece1dd9aa885b338b488aa3af5f56cc075f927547a,saq,unknown,"Describe the prevalence and impact of malariain Nigeria, and initiatives to combat the disease.","Answer: Malaria is endemic in Nigeria, with significant morbidity and mortality, particularly among children under five and pregnant women. Initiatives to combat malaria include the distribution of insecticide-treated bed nets, indoor residual spraying, prompt diagnosis and treatment with artemisinin-based combination therapy (ACT), intermittent preventive treatment for pregnant women, and community-based malaria control programs.","Malaria is endemic in Nigeria, with high rates of morbidity and mortality among children under five years old. The burden of malaria is particularly heavy in rural areas where access to healthcare facilities is limited. In response to this public health challenge, the Nigerian government has implemented various strategies to control and eliminate malaria, including scaling up insecticide-treated bed nets (ITNs), indoor residual spraying (IRS) of mosquito larvae, and community-based interventions such as mass drug administration (MDA). Additionally, efforts have been made to strengthen surveillance systems for early detection and timely treatment of cases, as well as to improve vector control measures through integrated pest management practices.",,,,,,
+61250629943f517725a5c30d6a86abbd4738542fea5683069c28fe68584b95f1,saq,Obstetrics_and_Gynecology,"What is placenta praevia,
+causes/risk factors, Types,
+Symptoms, 
+Treatment 
+And why is it common in Nigerian women","Placenta praevia is a pregnancy complication where the placenta partially or completely covers the cervix, the lower part of the uterus that opens into the vagina. This can cause:
+
+- Bleeding during pregnancy and delivery
+- Premature birth
+- Fetal distress
+- Maternal hemorrhage
+
+Types:
+
+- Placenta praevia marginalis: Placenta is near but not covering the cervix
+- Placenta praevia partialis: Placenta partially covers the cervix
+- Placenta praevia totalis: Placenta completely covers the cervix
+
+Causes and risk factors:
+
+- Multiple pregnancy
+- Previous uterine surgery or cesarean section
+- Advanced maternal age
+- Smoking
+
+Symptoms:
+
+- Painless vaginal bleeding
+- Abdominal pain
+- Fetal distress
+
+Treatment:
+
+- Bed rest and monitoring
+- Corticosteroids to promote fetal lung maturity
+- Cesarean delivery if necessary
+
+Prompt medical attention is essential to ensure the health and safety of both mother and baby.
+
+It is common in Nigerian women due to their poor hospital seeking behavior and local harmful traditional practices as well as ignorance and illiteracy","Answer: Placenta praevia occurs when the placenta partially or fully covers the cervix during pregnancy. Risk factors include multiple pregnancies, previous caesarean section, age over 35, and parity (number of pregnancies). Symptoms may include abdominal pain, bleeding, and uterine tenderness. Treatment depends on severity but may involve bed rest, monitoring, and cesarean delivery if the condition progresses. It is more common in Nigeria due to high rates of multiparity and cesarean deliveries.",,,,,,
+6afd5381fff653483146ad43e399b34b7a16074c975cd15b85f2b327160cfa23,saq,Obstetrics_and_Gynecology,List the suture lines of the fetal skull and their corresponding bordering bones,"the suture lines of the fetal skull and their corresponding bordering bones:
+
+1. _Metopic suture_: Frontal bone (interfrontal suture)
+2. _Coronal suture_: Frontal bone and parietal bone
+3. _Sagittal suture_: Parietal bones (interparietal suture)
+4. _Lambdoid suture_: Parietal bone and occipital bone
+5. _Occipitomastoid suture_: Occipital bone and mastoid part of temporal bone
+6. _Sphenofrontal suture_: Sphenoid bone and frontal bone
+7. _Sphenoparietal suture_: Sphenoid bone and parietal bone
+8. _Sphenotemporal suture_: Sphenoid bone and temporal bone
+9. _Sphenosquamosal suture_: Sphenoid bone and squamous part of temporal bone
+10. _Petrosquamosal suture_: Petrous part of temporal bone and squamous part of temporal bone
+11. _Intermaxillary suture_: Maxilla bones (intermaxillary suture)
+12. _Internasal suture_: Nasal bones (internasal suture)
+13. _Nasofrontal suture_: Nasal bone and frontal bone
+14. _Zygomaticofrontal suture_: Zygomatic bone and frontal bone
+15. _Zygomaticotemporal suture_: Zygomatic bone and temporal bone
+16. _Zygomaticomaxillary suture_: Zygomatic bone and maxilla bone
+17. _Frontonasal suture_: Frontal bone and nasal bone
+18. _Parietomastoid suture_: Parietal bone and mastoid part of temporal bone","• Frontal line - frontal bone 
+• Bregma – parietal bones 
+• Temporal line – temporal bones 
+• Zygomatic line – zygomatic arches 
+• Sagittal line – coronal sutures 
+• Sphenomalar line – sphenomalar eminence 
+• Cribriform line – cribriform plate of ethmoid bone 
+• Parietal-sagittal line – parieto-sagittal suture 
+• Parietal-temporal line – parieto-temporal suture 
+• Parietal-frontal line – parieto-frontal suture 
+• Parietal-malar line – parieto-malar eminence 
+• Parietal-zygomatic line – parieto-zygomatic suture 
+• Parietal-occipital line – parieto-occipital suture 
+• Parietal-nasal line – parieto-nasal suture 
+• Parietal-inferior orbital rim line – parieto-inferior orbital rim 
+line",,,,,,
+262911f7b7760ddf5119e97ac76b6e973ecc50fc08b37310bdb3ffacb99c5f59,saq,unknown,What is the first-line treatment for uncomplicated amebic liver abscess in Africa?,"Metronidazole is the first-line treatment for uncomplicated amebic liver abscess in Africa due to its effectiveness in killing Entamoeba histolytica, the causative protozoan. This nitroimidazole antibiotic penetrates well into liver abscesses and provides high intraluminal concentrations, leading to parasite eradication and abscess resolution.",Metronidazole is the first-line treatment for uncomplicated amebic liver abscess in Africa due to its effectiveness against Entamoeba histolytica parasites and minimal resistance development. Treatment should be administered intravenously or orally under medical supervision.,,,,,,
+ed8dcd8db10365f787bd64b4cc98629e9f18a7769bff80b900c94c26f963e643,saq,unknown,How does the prevalence of anemia vary across different age groups in Africa?,"Anemia prevalence varies across age groups, with higher rates observed among children under five, pregnant women, and elderly populations in Africa.",Anemia is more prevalent among children under five years old due to factors such as poor nutrition and parasitic infections like malaria and hookworm disease.,,,,,,
+efbf8d9a362f5db0851fc1e6b82da1198a4bd8e050a24bf1fe89da5527d7e794,saq,Endocrinology,Types of thyroidectomies Total thyroidectomy,"Subtotal thyroidectomy 
+Near-total thyroidectomy 
+Lobectomy 
+Radical thyroidectomy 
+Intracapsular/extracapsular thyroidectomy","• Complete (total) thyroidectomy 
+• Hemithyroidectomy 
+• Lobectomy 
+• Subtotal thyroidectomy 
+• Near-total thyroidectomy 
+• Partial lobectomy 
+• Lateral lobectomy 
+• Central lobectomy 
+• Anterior lobectomy 
+• Posterior lobectomy 
+• Medial lobectomy 
+• Lateral lobectomy 
+• Inferior lobectomy 
+• Superior lobectomy 
+• Parathyroidectomy 
+• Parathyroidectomy for hyperparathyroidism 
+• Parathyroidectomy for pseudohypoparathyroidism 
+• Parathyroidectomy for medullary carcinoma 
+• Parathyroidectomy for parathyroid adenoma 
+• Parathyroidectomy for parathyroid adenoma 
+• Parathyroidectomy for parathyroid adenoma 
+• Parathyroidectomy for parathyroid adenoma 
+• Parathyroidectomy for parathyroid adenoma 
+• Parathyroidectomy for parathyroid adenoma 
+• Parathyroidectomy for parathyroid adenoma 
+• Parathyroidectomy for parathyroid adenoma 
+• Parathyroidectomy for parathyroid adenoma 
+• Parathyroidectomy for parathyroid adenoma 
+• Parathyroidectomy for parathyroid aden",,,,,,
+01cf151cedef62f95466ee92d4b6eeda3ac53950ee6ff6f046fb0ba56dd170e1,saq,unknown,"Clinical Scenario: A 55-year-old male presents with pain and swelling in his left leg. He reports recent travel to Nigeria, where he spent several weeks visiting family in a rural area. On examination, his left leg is warm, erythematous, and tender to palpation. There is also mild swelling and palpable cord-like structures along the course of the left superficial veins.
+Question: What is the most likely diagnosis, and what is the recommended next step in management for this patient?","Answer: The most likely diagnosis is acute deep vein thrombosis (DVT) secondary to venous thromboembolism (VTE), likely triggered by prolonged travel and possibly exacerbated by factors such as dehydration and immobility during the trip to Nigeria. The recommended next step in management is to perform a compression ultrasound of the left lower extremity to confirm the diagnosis of DVT. Additionally, the patient should be started on anticoagulant therapy, such as low molecular weight heparin (LMWH) or direct oral anticoagulants (DOACs), to prevent thrombus propagation and reduce the risk of pulmonary embolism (PE).
+Reason: The patient's symptoms of pain, swelling, warmth, erythema, and palpable cord-like structures along the course of superficial veins in the left leg are highly suggestive of acute deep vein thrombosis (DVT), a common complication of venous thromboembolism (VTE). The recent travel to Nigeria, combined with prolonged immobility and possible dehydration during the trip, increases the risk of DVT. Compression ultrasound is the preferred diagnostic modality for confirming the diagnosis of DVT due to its high sensitivity and specificity. Early initiation of anticoagulant therapy is essential to prevent thrombus propagation, reduce the risk of complications such as pulmonary embolism (PE), and promote optimal outcomes for the patient.","Answer: The most likely diagnosis is deep vein thrombosis (DVT) of the left lower extremity. The patient's history of recent travel to Nigeria, symptoms such as pain, swelling, warmth, and tenderness, as well as the presence of palpable cord-like structures along the course of the left superficial veins, strongly suggest DVT.
+
+The recommended next step in management is to perform Doppler ultrasound or venography to confirm the diagnosis of DVT and assess the extent of the clot. If confirmed, immediate anticoagulation therapy with unfractionated heparin (UFH) or low molecular weight heparin (LMWH) should be initiated. Additionally, close monitoring of coagulation parameters and early detection of potential complications such as pulmonary embolism (PE) are essential.",,,,,,
+7947f8eecb26197aecbc86954bc17cccea31fa6e40f1db6e99882661bfeecaf8,saq,unknown,What is the recommended first-line treatment for acute bacterial prostatitis in African men?,"Oral fluoroquinolones, such as ciprofloxacin or levofloxacin, are the recommended first-line treatment for acute bacterial prostatitis in African men. These antibiotics achieve high prostatic concentrations and provide broad-spectrum coverage against uropathogens implicated in prostatic infections.",Metronidazole or nitrofurantoin is the recommended first-line treatment for acute bacterial prostatitis in African men due to their effectiveness against Gram-negative bacteria commonly found in prostate infections.,,,,,,
+ac9bf47e1941323eee552334c50d9f859ea1b61fc5f132bdc03ae7485bfd8a33,saq,unknown,"What traditional practices are associated with wound care in African cultures, and how do they compare to modern medical practices?",Traditional practices like applying herbal poultices may be used alongside or in place of modern wound care techniques.,"Traditional practices may involve the use of herbs like shea butter or neem leaves for healing, as well as rituals such as scarification or tattooing to mark healing progress. Modern medical practices often emphasize cleanliness, proper hygiene, and the use of antibiotics or antiseptics to prevent infection.",,,,,,
+ca5ae1d039926972756fa0cf9a7e6cae9c3bf650e67ae2dd07437625877322b5,cq,Infectious_Disease,What are the food I have to avoid and the ones that I need increase my intake it order to treat my vision?,(no gold answer),"Avoid foods high in fat like fried foods, dairy products, and red meat. Increase your intake of fruits, vegetables, whole grains, lean meats, fish, nuts, seeds, and legumes. Drink plenty of water to stay hydrated. Avoid smoking and limit alcohol consumption.",,,,,,
+5b0ed5614e20fd4a6833b6b7d59d6911d55b94170b940bb99169f9cd3d35c0ed,cq,unknown,What preventive measures can I take to avoid recurrent UTIs?,(no gold answer),"Drinking plenty of fluids, such as water or cranberry juice, helps flush bacteria out of the urinary tract. Avoiding tight-fitting clothing and wearing cotton underwear also promotes good hygiene and reduces the risk of UTIs.",,,,,,
+8f6e39589e4405ce31bef33c060dbe1f2b101abfca03f9c6f2dbf00a319b13cd,cq,unknown,He should ask the Doctor why he always has sharp pains when breathing because this is a very common symptom for pneumonia and could help in diagnosis.,(no gold answer),Answer: N/a,,,,,,
+8f11d9b2eb1874b5b063d0f0eded9ddefc027a822f658780099d364b327df6b6,cq,unknown,Will my treatment affect my ability to urinate?,(no gold answer),"No, your treatment will not affect your ability to urinate. The medication used for bladder cancer (Bleocin) does not cause urinary retention or other side effects that would interfere with urination.",,,,,,
+02a9082ecb73811fd5955a73ccba79c2e63f8fa9031a544e81e8bc7997888d8c,cq,unknown,What are the long term health complications associated with leshmaniasis?,(no gold answer),"Answer: Leprosy can lead to permanent nerve damage, muscle weakness, and deformities if left untreated. It also increases the risk of other infections such as tuberculosis.",,,,,,
+8fdf5ef8743fb4dc34b86b0058da3a5cd61ca8586fdadca1433bbdcab0bc0c4d,cq,unknown,Can we do routine bloodwork to check her levels?,(no gold answer),"Answer: No, you can’t. The only way to diagnose malnutrition is by doing a complete blood count (CBC) and measuring the levels of hemoglobin, hematocrit, red blood cells, white blood cells, platelets, and other markers of nutritional status.",,,,,,
+f6dbbe71b7c7ecb4abe8be9b56ca4cc76b2775dcdaafc3771e8fb97432102b92,cq,Pulmonary_Medicine,Is the symptoms of pregnancy?,(no gold answer),"No, it's not. The symptoms you described could be indicative of pulmonary hypertension, which is a condition where blood pressure in the arteries that supply oxygen-rich blood to your lungs becomes too high. This can lead to breathing difficulties, fatigue, and other symptoms if left untreated. If you're concerned about this possibility, it's important to consult with a healthcare provider for proper evaluation and management.",,,,,,
+2711ab17ad7802a44e844203d5e75be9d89aa3d6098c0ade3e563ae2018eefe4,cq,unknown,What are the complications of tonsillitis?,(no gold answer),"• Acute pharyngitis 
+• Otitis media 
+• Sinusitis 
+• Laryngotracheobronchitis 
+• Esophagitis 
+• Peritonsillar abscess 
+• Malignant lymphadenopathy 
+• Recurrent acute pharyngitis 
+• Chronic tonsillitis 
+• Tonsil hypertrophy 
+• Tonsilloliths 
+• Tonsillar fibrosis 
+• Tonsillar atrophy 
+• Tonsillar hyperplasia 
+• Tonsillar gland swelling 
+• Tonsillar gland inflammation 
+• Tonsillar gland carcinoma 
+• Tonsillar gland polyp 
+• Tonsillar gland cyst 
+• Tonsillar gland abscess 
+• Tonsillar gland infection 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tons",,,,,,
+ff7c79bc3b93ae5e7130fdcf087cb699e4a983a74799b664c36645b0d8ec7101,cq,unknown,What can happen to my body if I don't follow the treatment well?,(no gold answer),"Answer: If you don’t follow the treatment well, it could lead to complications such as pneumonia, ear infections, or even death in severe cases. It’s crucial to complete the course of antibiotics prescribed by your doctor.",,,,,,
+6f4ba744d14bfc6a9a0f09aadf8084c53e456bff1b7a8b9efe9e32fc713e4a3b,cq,unknown,What is a home remedy for intestinal worms in children?,(no gold answer),Drinking tea made from dried leaves of the marshmallow plant (Althaea officinalis) or consuming capsules containing herbs like moringa oleifera seeds may help alleviate symptoms of intestinal worm infections in children.,,,,,,
+b811a9f8596aafb6c0ffef0163e53670aba62122c1620e974062d084b19d8ffa,cq,Psychiatry,What are the clinical features of major neurocognitive disorder?,(no gold answer),"a) Cognitive impairment 
+b) Memory loss 
+c) Difficulty with executive function 
+d) Language problems 
+e) Impaired visuospatial skills 
+f) Problems with attention and concentration 
+g) Personality changes 
+h) Emotional lability 
+i) Psychotic symptoms",,,,,,
+ad88e29c19a994deda3381c93112de7605d47ef4f1585b57f3a760cd6dd14a0c,cq,unknown,How long would you consider it reasonable to try to conceive without success before seeing you again?,(no gold answer),3 months,,,,,,
+ce2a90a757f55def6066c9a7b003125293528052a2df257ad97f126834ccf9b9,cq,Obstetric,What is the recovery rate for Guillain-Barré syndrome?,(no gold answer),"The majority of patients with GBS recover completely within 3 months, although some may have residual symptoms such as muscle weakness or atrophy lasting longer than 6 months.",,,,,,
+b8e7bf7c946160d52c17339c4c0a69e451e279ad5306808c3c05093430833c92,cq,unknown,"What are the realistic possibilities for revision rhinoplasty, and what are the associated risks and benefits?",(no gold answer),"Answer: Revision rhinoplasty can be performed at any time following primary rhinoplasty, but it may require additional incisions or manipulation of soft tissues. Risks include bleeding, infection, nasal septal perforation, and complications related to anesthesia. Benefits include improved nasal function, better cosmetic results, and correction of residual deformities.",,,,,,
+29b6d94ac9d80d1baafe62ea89c690e5ea63157191911d39d4924f0ac99a0717,cq,unknown,Do I need therapy?,(no gold answer),"Yes, you should seek help from a mental health professional for treatment of OCD.",,,,,,
+6ce6be191d252660d955d50deb7f6107c117ed385139e0c2fc552b8815ae1e6f,cq,unknown,Will contact to my family members spread these infections to them?,(no gold answer),"No, they will not spread it to you as you have no skin lesions or symptoms. They should be treated with antibiotics if infected.",,,,,,
+2190a2b0965b544ddb788c7b9a6a6008e767e4e3b49cafc2bf84114ea73b3ede,cq,Obstetric,Is prostate cancer only common among old men only?,(no gold answer),"No, it can affect anyone regardless of age. It's more common in older men but isn't exclusive to them.",,,,,,
+b570e925a0fa110cbc45581f9467ca94d3722e56a9a936a008021510823792c9,cq,Plastic_Surgery,What are the risk factors of otoplasty complications?,(no gold answer),"a) Age 
+b) Smoking 
+c) Alcohol consumption 
+d) Family history of bleeding disorders 
+e) History of blood clots 
+f) High platelet count 
+g) Platelet inhibitors (aspirin, warfarin) 
+h) Thrombocytopenia 
+i) Hypertrophic scarring 
+j) Previous surgical scars 
+k) Pregnancy 
+l) Use of anticoagulants 
+m) Recent major surgery or trauma 
+n) Recent weight loss 
+o) Recent weight gain 
+p) Recent use of corticosteroids 
+q) Recent use of NSAIDs 
+r) Recent use of aspirin 
+s) Recent use of heparin 
+t) Recent use of warfarin 
+u) Recent use of clopidogrel 
+v) Recent use of diclofenac 
+w) Recent use of ibuprofen 
+x) Recent use of naproxen 
+y) Recent use of dicloprost 
+z) Recent use of dexamethasone 
+AA. 10/25/2019",,,,,,
+e7be37fdd9f805e2387f1cbf3c33c9b26a57788b90cf970b29a4997d58019872,cq,unknown,Can someone who is depressed also be at risk of a heart failure or cardiac arrest?,(no gold answer),"Yes, people with depression can experience symptoms such as anxiety, insomnia, and fatigue that increase their risk of developing cardiovascular disease. They may also have physical symptoms like chest pain, shortness of breath, and palpitations, which can lead to a heart attack if left untreated.",,,,,,
+471dac3193a87eae5154e7d5fdeae219e992368ee8a5de15ad472ef776b32252,cq,unknown,What should I do to avoid contacting urinary infect,(no gold answer),"Answer: Drink plenty of fluids like water, tea or coffee. Avoid drinking alcohol and caffeine. Avoid spicy foods. Avoid douching. Avoid sexual intercourse for 24 hours after taking antibiotics. Use condoms during sex. If you have a UTI, take antibiotics as prescribed by your doctor. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a",,,,,,

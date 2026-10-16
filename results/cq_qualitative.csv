@@ -1,0 +1,397 @@
+id,qtype,question,context,options,answer_letters,rationale,specialty,country,tier,pred_B3_zeroshot_1.5b,pred_E2_qwen1.5b_r16
+ca5ae1d039926972756fa0cf9a7e6cae9c3bf650e67ae2dd07437625877322b5,cq,What are the food I have to avoid and the ones that I need increase my intake it order to treat my vision?,"Your female coursemate complains of eye pain, visual impairment and thinks she has Onchocerciasis (River Blindness) and is going to visit the nearest doctor.",[],[],,Infectious_Disease,ZA,crowdsourced,"For treating Onchocerciasis (River Blindness), you should focus on increasing your intake of foods rich in vitamin A, zinc, and omega-3 fatty acids. Foods high in these nutrients include:
+
+1. **Fruits**: Apples, bananas, oranges, and other citrus fruits.
+2. **Vegetables**: Spinach, carrots, sweet potatoes, and other dark green leafy vegetables.
+3. **Legumes**: Lentils, chickpeas, and kidney beans.
+4. **Nuts and Seeds**: Almonds, walnuts, sunflower seeds, and pumpkin seeds.
+5. **Fish**: Salmon, mackerel, sardines, and other oily fish.
+6. **Eggs** - Eggs are an excellent source of protein and can be included as part of a balanced diet.
+
+Avoid or limit consumption of:
+1. **High-fat dairy products**: These may contain saturated fats which could interfere with the absorption of certain vitamins.
+2. **Processed meats**: Red meat processed for long periods might contain preservatives that could affect nutrient absorption.
+3. **Sugary drinks**: High sugar content can lead to weight gain and other health issues that might complicate treatment plans.
+
+It's important to consult with a healthcare provider","Avoid foods high in fat like fried foods, dairy products, and red meat. Increase your intake of fruits, vegetables, whole grains, lean meats, fish, nuts, seeds, and legumes. Drink plenty of water to stay hydrated. Avoid smoking and limit alcohol consumption."
+5b0ed5614e20fd4a6833b6b7d59d6911d55b94170b940bb99169f9cd3d35c0ed,cq,What preventive measures can I take to avoid recurrent UTIs?,"Your female coworker complains of painful urination, lower abdomen pain and thinks she has Urinary Tract Infection (UTI) and is going to visit the nearest doctor.",[],[],,unknown,NG,crowdsourced,"To prevent recurrent urinary tract infections (UTIs), you can follow these preventive measures:
+
+1. **Maintain Good Hygiene**: Practice good personal hygiene, especially after using the toilet or during sexual activity.
+2. **Drink Plenty of Fluids**: Drink at least 8 glasses of water per day to flush out bacteria from your urinary system.
+3. **Avoid Irritants**: Limit caffeine, alcohol, and acidic beverages that can irritate the bladder.
+4. **Use Personal Care Products Wisely**: Avoid harsh soaps and use mild, fragrance-free products for cleaning intimate areas.
+5. **Urinate Before and After Sexual Activity**: This helps clear any potential infection-causing organisms before and after intercourse.
+6. **Consider Probiotics**: Some studies suggest probiotics may help reduce the risk of UTIs by restoring normal gut flora balance.
+7. **Regular Exercise**: Regular physical activity can improve overall health and potentially reduce the frequency of UTIs.
+8. **Follow Up with Healthcare Providers**: If you have had multiple UTIs, it might be beneficial to see a healthcare provider who can monitor your condition and provide advice tailored to your needs.
+
+By following these steps, you can significantly reduce the likelihood of developing another UTI. However, if symptoms persist or wors","Drinking plenty of fluids, such as water or cranberry juice, helps flush bacteria out of the urinary tract. Avoiding tight-fitting clothing and wearing cotton underwear also promotes good hygiene and reduces the risk of UTIs."
+8f6e39589e4405ce31bef33c060dbe1f2b101abfca03f9c6f2dbf00a319b13cd,cq,He should ask the Doctor why he always has sharp pains when breathing because this is a very common symptom for pneumonia and could help in diagnosis.,"Your friend's child complains of difficulty breathing, cough and thinks he has Pneumonia and is going to visit the nearest doctor.",[],[],,unknown,NG,crowdsourced,"Your friend's concern about sharp chest pain during breathing is indeed a significant symptom that can be associated with pneumonia. However, it's important to note that other conditions like pleurisy or heart issues can also cause similar symptoms. The best course of action would be for your friend to seek medical advice from their doctor who will likely perform a physical examination, review his symptoms, and possibly order diagnostic tests such as X-rays or blood work if necessary. This information will help in making an accurate diagnosis and appropriate treatment plan.",Answer: N/a
+8f11d9b2eb1874b5b063d0f0eded9ddefc027a822f658780099d364b327df6b6,cq,Will my treatment affect my ability to urinate?,Your female classmate complains of pelvic pain and thinks she has Bladder Cancer and is going to visit the nearest doctor.,[],[],,unknown,NG,crowdsourced,"No, your treatment will not directly affect your ability to urinate. The treatment for bladder cancer typically involves chemotherapy or radiation therapy, which can cause side effects such as urinary discomfort but does not impair urination function itself. However, if you experience significant pain or difficulty with urination during these treatments, it would be important to discuss this with your healthcare provider who may adjust your medication or provide additional support.","No, your treatment will not affect your ability to urinate. The medication used for bladder cancer (Bleocin) does not cause urinary retention or other side effects that would interfere with urination."
+02a9082ecb73811fd5955a73ccba79c2e63f8fa9031a544e81e8bc7997888d8c,cq,What are the long term health complications associated with leshmaniasis?,"Your female classmate complains of skin ulcers, fever and thinks she has Leishmaniasis and is going to visit the nearest doctor. Suggest an important question she might likely forget to ask. Please explain your question if needed. Don't ask generic questions.",[],[],,unknown,KE,crowdsourced,"Your classmate should be aware that leishmaniasis can lead to serious long-term health issues such as chronic pain, tissue damage, and even cancerous changes in affected areas. This information is crucial for her understanding of the condition's potential impact beyond just the initial symptoms like ulcers and fever.","Answer: Leprosy can lead to permanent nerve damage, muscle weakness, and deformities if left untreated. It also increases the risk of other infections such as tuberculosis."
+8fdf5ef8743fb4dc34b86b0058da3a5cd61ca8586fdadca1433bbdcab0bc0c4d,cq,Can we do routine bloodwork to check her levels?,"Your classmate's child complains of weight loss, fatigue and thinks she has Malnutrition and is going to visit the nearest doctor. Suggest an important question she might likely forget to ask. Please explain your question if needed. Don't ask generic questions.",[],[],,unknown,US,crowdsourced,"The most important question your classmate's child should ask before visiting the doctor is:
+
+""Can we perform a complete blood count (CBC) test to assess her overall health status?""
+
+This question is crucial because it directly addresses the possibility of malnutrition by checking for anemia, which can be a sign of poor nutrition. The CBC includes tests for red blood cells, white blood cells, and platelets, providing a comprehensive view of the patient's condition that goes beyond just looking at body weight alone. This information could help the doctor make more informed decisions about further diagnostic testing or treatment options.","Answer: No, you can’t. The only way to diagnose malnutrition is by doing a complete blood count (CBC) and measuring the levels of hemoglobin, hematocrit, red blood cells, white blood cells, platelets, and other markers of nutritional status."
+f6dbbe71b7c7ecb4abe8be9b56ca4cc76b2775dcdaafc3771e8fb97432102b92,cq,Is the symptoms of pregnancy?,"Your female classmate complains of shortness of breath, fatigue and thinks she has Pulmonary Hypertension and is going to visit the nearest doctor.",[],[],,Pulmonary_Medicine,ZA,crowdsourced,"No, the symptoms described (shortness of breath, fatigue) are more consistent with conditions such as pulmonary hypertension or other respiratory issues rather than those typically associated with pregnancy. Pregnancy can cause similar symptoms but they would be part of the typical prenatal care presentation. If your classmate is concerned about potential pregnancy, it's important for her to discuss these concerns with a healthcare provider who can provide appropriate guidance based on her specific situation.","No, it's not. The symptoms you described could be indicative of pulmonary hypertension, which is a condition where blood pressure in the arteries that supply oxygen-rich blood to your lungs becomes too high. This can lead to breathing difficulties, fatigue, and other symptoms if left untreated. If you're concerned about this possibility, it's important to consult with a healthcare provider for proper evaluation and management."
+2711ab17ad7802a44e844203d5e75be9d89aa3d6098c0ade3e563ae2018eefe4,cq,What are the complications of tonsillitis?,"Your coworker's child complains of sore throat, difficulty swallowing and thinks he has Tonsillitis and is going to visit the nearest doctor.",[],[],,unknown,KE,crowdsourced,"Tonsillitis can lead to several complications if left untreated or if it becomes severe. These include:
+
+1. **Acute Pharyngitis**: Inflammation of the pharynx (back of the throat) that may be accompanied by fever, tender lymph nodes in the neck, and difficulty swallowing.
+2. **Peritonsillar Abscess**: A collection of pus between the tonsils and the back wall of the throat, which can cause significant pain and swelling.
+3. **Hemophagocytic Syndrome**: An immune response where white blood cells called macrophages engulf normal tissue, leading to inflammation and potential organ damage.
+4. **Fungal Infections**: Rarely, bacteria like Streptococcus pneumoniae can become resistant to antibiotics and develop into fungal infections.
+5. **Severe Acute Respiratory Infection (SARI)**: The infection can spread from the throat to other parts of the respiratory system, potentially causing more serious conditions such as bronchitis or even pneumonia.
+6. **Anaphylaxis**: Severe allergic reaction to certain medications used for treating tonsillitis, especially penicillin-based treatments.
+7. **Complications during Pregnancy**: Pregnant women with tonsillitis have an increased risk of","• Acute pharyngitis 
+• Otitis media 
+• Sinusitis 
+• Laryngotracheobronchitis 
+• Esophagitis 
+• Peritonsillar abscess 
+• Malignant lymphadenopathy 
+• Recurrent acute pharyngitis 
+• Chronic tonsillitis 
+• Tonsil hypertrophy 
+• Tonsilloliths 
+• Tonsillar fibrosis 
+• Tonsillar atrophy 
+• Tonsillar hyperplasia 
+• Tonsillar gland swelling 
+• Tonsillar gland inflammation 
+• Tonsillar gland carcinoma 
+• Tonsillar gland polyp 
+• Tonsillar gland cyst 
+• Tonsillar gland abscess 
+• Tonsillar gland infection 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tonsillar gland inflammation 
+• Tons"
+ff7c79bc3b93ae5e7130fdcf087cb699e4a983a74799b664c36645b0d8ec7101,cq,What can happen to my body if I don't follow the treatment well?,"Your female classmate complains of rash, fever and thinks she has Measles and is going to visit the nearest doctor. Suggest an important question she might likely forget to ask. Please explain your question if needed. Don't ask generic questions.",[],[],,unknown,MZ,crowdsourced,"Your classmate should be aware that untreated measles can lead to serious complications such as pneumonia, ear infections, and even encephalitis (brain inflammation). This information is crucial for her understanding of the seriousness of the condition and the importance of following proper medical advice.","Answer: If you don’t follow the treatment well, it could lead to complications such as pneumonia, ear infections, or even death in severe cases. It’s crucial to complete the course of antibiotics prescribed by your doctor."
+6f4ba744d14bfc6a9a0f09aadf8084c53e456bff1b7a8b9efe9e32fc713e4a3b,cq,What is a home remedy for intestinal worms in children?,"Your colleague's child complains of abdominal pain, diarrhea and thinks she has Intestinal Worms and is going to visit the nearest doctor.",[],[],,unknown,NG,crowdsourced,"A traditional home remedy for intestinal worms in children involves consuming garlic or onions raw. This practice is believed to help expel parasites from the body through the digestive system. However, it is important to note that this method may not be effective against all types of worms and should not replace proper medical treatment. If your colleague's child is experiencing symptoms of intestinal worm infection, they should consult with a healthcare provider who can provide appropriate diagnostic tests and recommend safe and effective treatments based on their specific needs.",Drinking tea made from dried leaves of the marshmallow plant (Althaea officinalis) or consuming capsules containing herbs like moringa oleifera seeds may help alleviate symptoms of intestinal worm infections in children.
+b811a9f8596aafb6c0ffef0163e53670aba62122c1620e974062d084b19d8ffa,cq,What are the clinical features of major neurocognitive disorder?,Your female friend complains of significant cognitive decline from a previous level of performance and thinks she has Major Neurocognitive Disorder and is going to visit the nearest doctor.,[],[],,Psychiatry,KE,crowdsourced,"Major Neurocognitive Disorder (NCD) is characterized by persistent or fluctuating cognitive impairment that significantly impairs daily functioning. The following are key clinical features:
+
+1. **Cognitive Impairment**: Significant deficits in one or more domains of cognition such as memory, language, attention, executive function, visuospatial skills, or motor abilities.
+2. **Severity**: Persistent or fluctuating cognitive impairment that interferes with social or occupational activities.
+3. **Duration**: At least 6 months for symptoms to be present.
+4. **Impact**: Cognitive impairment must cause clinically significant functional impairment in at least two out of six areas:
+   - Memory
+   - Language
+   - Attention
+   - Executive functions
+   - Visuospatial skills
+   - Motor abilities
+
+5. **Neurological Examination**: May reveal signs of brain pathology, such as seizures, focal neurological signs, or evidence of brain injury.
+
+6. **Diagnostic Criteria**: Requires exclusion of other conditions that can mimic NCD, such as depression, anxiety disorders, substance use disorders, and certain types of dementia.
+
+7. **Diagnosis**: Clinically diagnosed based on the presence of cognitive impairment meeting the criteria above.
+
+8. **Management**: Treatment may include pharmacological interventions for coexisting conditions","a) Cognitive impairment 
+b) Memory loss 
+c) Difficulty with executive function 
+d) Language problems 
+e) Impaired visuospatial skills 
+f) Problems with attention and concentration 
+g) Personality changes 
+h) Emotional lability 
+i) Psychotic symptoms"
+ad88e29c19a994deda3381c93112de7605d47ef4f1585b57f3a760cd6dd14a0c,cq,How long would you consider it reasonable to try to conceive without success before seeing you again?,"Your female roommate complains of sharp pelvic pain, vaginal bleeding and thinks she has Ectopic Pregnancy and is going to visit the nearest doctor.",[],[],,unknown,KE,crowdsourced,"In cases where your female roommate suspects an ectopic pregnancy, which can be life-threatening if not treated promptly, it's important to act quickly. The time frame for considering further action after trying to conceive without success should be:
+
+1. **2-3 months** - This allows for a period during which any potential ectopic pregnancy could resolve itself naturally or with treatment.
+   
+2. **4-6 weeks** - If no improvement occurs within this timeframe, it might indicate that the ectopic pregnancy is not resolving and requires immediate attention.
+
+3. **7-8 weeks** - After 7-8 weeks, if there is still no sign of resolution, it may suggest that the ectopic pregnancy is not responding to conservative treatments like bed rest or anti-inflammatory medications.
+
+It's crucial to monitor her condition closely and follow up as soon as possible if symptoms persist or worsen. Early diagnosis and intervention are critical in managing ectopic pregnancies effectively.",3 months
+ce2a90a757f55def6066c9a7b003125293528052a2df257ad97f126834ccf9b9,cq,What is the recovery rate for Guillain-Barré syndrome?,"Your female neighbor complains of weakness, paralysis and thinks she has Guillain-Barré Syndrome and is going to visit the nearest doctor.",[],[],,Obstetric,KE,crowdsourced,"The recovery rate for Guillain-Barré syndrome (GBS) varies but generally depends on several factors including the severity of symptoms at onset, the individual's overall health, and the effectiveness of treatment. Most patients recover fully within 3 to 6 months after symptom onset, with about 80% of cases showing significant improvement by 12 weeks post-onset. However, some individuals may experience residual neurological deficits or long-term complications such as chronic pain, sensory issues, or muscle weakness that persists beyond the acute phase. It's important for your neighbor to seek medical attention promptly if they suspect GBS, as early diagnosis and treatment can significantly improve outcomes.","The majority of patients with GBS recover completely within 3 months, although some may have residual symptoms such as muscle weakness or atrophy lasting longer than 6 months."
+b8e7bf7c946160d52c17339c4c0a69e451e279ad5306808c3c05093430833c92,cq,"What are the realistic possibilities for revision rhinoplasty, and what are the associated risks and benefits?",Your male classmate complains of complaints about nose shape after surgery and thinks he has Rhinoplasty dissatisfaction and is going to visit the nearest doctor.,[],[],,unknown,NG,crowdsourced,"Revision rhinoplasty is a surgical procedure that aims to correct deformities or functional issues following a previous nasal reshaping (rhinoplasty) procedure. The primary considerations for this type of surgery include the patient's expectations, the original surgery's outcome, and the current condition post-surgery.
+
+**Risks and Benefits:**
+
+1. **Benefits:**
+   - Correcting aesthetic discrepancies from the initial surgery.
+   - Reducing breathing difficulties if the original surgery altered the nasal airway structure.
+   - Improving facial balance by correcting asymmetries caused by the original surgery.
+
+2. **Risks:**
+   - **Anesthesia-related risks:** Allergic reactions, hypotension, anaphylaxis, respiratory depression.
+   - **Surgical complications:** Infection, bleeding, hematoma formation, flap necrosis, skin loss, wound dehiscence, infection at incisions.
+   - **Reoperative risks:** Reoperation may be necessary due to poor healing, inadequate correction, or recurrence of the problem.
+   - **Functional risks:** If the original surgery affected the nasal airway, re-operation could lead to further breathing problems.
+
+3. **Associated Risks with Specific Procedures:**
+   - **Septorhinostomy (SR):","Answer: Revision rhinoplasty can be performed at any time following primary rhinoplasty, but it may require additional incisions or manipulation of soft tissues. Risks include bleeding, infection, nasal septal perforation, and complications related to anesthesia. Benefits include improved nasal function, better cosmetic results, and correction of residual deformities."
+29b6d94ac9d80d1baafe62ea89c690e5ea63157191911d39d4924f0ac99a0717,cq,Do I need therapy?,"Your male classmate complains of compulsions, obsessive thoughts and thinks he has Obsessive-Compulsive Disorder and is going to visit the nearest doctor.",[],[],,unknown,NG,crowdsourced,"Yes, it would be advisable for your classmate to seek therapy. OCD (Obsessive-Compulsive Disorder) can significantly impact daily functioning if left untreated. Therapy, particularly Cognitive Behavioral Therapy (CBT), can help manage symptoms and improve quality of life. It's important that he consults with a mental health professional who specializes in treating OCD or anxiety disorders. This will ensure that appropriate treatment options are considered and addressed effectively.","Yes, you should seek help from a mental health professional for treatment of OCD."
+6ce6be191d252660d955d50deb7f6107c117ed385139e0c2fc552b8815ae1e6f,cq,Will contact to my family members spread these infections to them?,"Your male flatmate complains of rashes, itching and thinks he has Skin Infections and is going to visit the nearest doctor.",[],[],,unknown,UG,crowdsourced,"No, direct contact with your family members will not spread skin infections like those described (rashes, itching) unless you have an open wound or if they come into direct contact with infected bodily fluids. The symptoms suggest a dermatological issue rather than a contagious disease that would be transmitted through casual contact. It's important for your flatmate to seek proper treatment from a healthcare provider who can diagnose and treat the condition appropriately.","No, they will not spread it to you as you have no skin lesions or symptoms. They should be treated with antibiotics if infected."
+2190a2b0965b544ddb788c7b9a6a6008e767e4e3b49cafc2bf84114ea73b3ede,cq,Is prostate cancer only common among old men only?,Your male friend complains of difficulty urinating and thinks he has Prostate Cancer and is going to visit the nearest doctor.,[],[],,Obstetric,NG,crowdsourced,"No, prostate cancer can affect both young and older men. It's important for your friend to consult with a healthcare provider who can perform appropriate tests and provide necessary care based on their symptoms and risk factors. Early detection through screening can significantly improve outcomes.","No, it can affect anyone regardless of age. It's more common in older men but isn't exclusive to them."
+b570e925a0fa110cbc45581f9467ca94d3722e56a9a936a008021510823792c9,cq,What are the risk factors of otoplasty complications?,Your female colleague complains of dissatisfaction with ear surgery results and thinks she has Otoplasty complications and is going to visit the nearest doctor.,[],[],,Plastic_Surgery,NG,crowdsourced,"Otoplasty (ear surgery) can be associated with several risks that may lead to complications or dissatisfaction with the surgical outcome. Some key risk factors include:
+
+1. **Anesthesia Complications**: Inadequate anesthesia, bleeding, infection, or allergic reactions to anesthetic agents.
+2. **Infection**: Postoperative infections can occur due to poor hygiene practices, delayed wound care, or compromised immune system.
+3. **Hematoma**: A collection of blood under the skin where the incision was made, which can cause pain and swelling.
+4. **Nerve Damage**: Injury to nerves around the ears during surgery can result in numbness, tingling, or loss of sensation in the ear area.
+5. **Skin Discoloration**: Changes in skin color at the incision site, often referred to as ""henna"" or ""cherry red,"" can appear after surgery.
+6. **Ear Shape Issues**: The ear shape might not match expectations post-surgery, leading to dissatisfaction.
+7. **Rejection of Results**: Dissatisfaction with the final appearance of the ears, especially if the desired changes were not achieved.
+8. **Postoperative Pain and Swelling**: Significant pain and swelling that persists for weeks after surgery.
+9. **Scar T","a) Age 
+b) Smoking 
+c) Alcohol consumption 
+d) Family history of bleeding disorders 
+e) History of blood clots 
+f) High platelet count 
+g) Platelet inhibitors (aspirin, warfarin) 
+h) Thrombocytopenia 
+i) Hypertrophic scarring 
+j) Previous surgical scars 
+k) Pregnancy 
+l) Use of anticoagulants 
+m) Recent major surgery or trauma 
+n) Recent weight loss 
+o) Recent weight gain 
+p) Recent use of corticosteroids 
+q) Recent use of NSAIDs 
+r) Recent use of aspirin 
+s) Recent use of heparin 
+t) Recent use of warfarin 
+u) Recent use of clopidogrel 
+v) Recent use of diclofenac 
+w) Recent use of ibuprofen 
+x) Recent use of naproxen 
+y) Recent use of dicloprost 
+z) Recent use of dexamethasone 
+AA. 10/25/2019"
+e7be37fdd9f805e2387f1cbf3c33c9b26a57788b90cf970b29a4997d58019872,cq,Can someone who is depressed also be at risk of a heart failure or cardiac arrest?,"Your female roommate complains of persistent sadness, loss of interest and thinks she has Depression and is going to visit the nearest doctor.",[],[],,unknown,NG,crowdsourced,"Yes, someone experiencing depression can indeed be at an increased risk for both heart failure and cardiac arrest. Depression can lead to several physical symptoms that may contribute to cardiovascular issues:
+
+1. **Increased Risk of Heart Failure**: Chronic stress and poor sleep quality due to depression can increase the workload on the heart, potentially leading to heart failure over time.
+2. **Cardiac Arrhythmias**: Depression can cause changes in the electrical activity of the heart (arrhythmias), which might predispose individuals to sudden cardiac events like arrhythmic death syndrome.
+3. **Physical Injuries**: People with depression often have higher rates of self-harm or suicide attempts, increasing their likelihood of sustaining injuries that could lead to cardiac complications if they occur during or after such incidents.
+4. **Medication Side Effects**: Some antidepressants carry risks of causing irregular heartbeat or other serious side effects that could trigger a cardiac event.
+
+Given these factors, it's important for your roommate to seek proper treatment for her depression as well as addressing any potential underlying heart conditions through appropriate diagnostic tests and management strategies. Regular follow-ups with a healthcare provider are crucial to monitor her condition and manage any associated risks effectively.","Yes, people with depression can experience symptoms such as anxiety, insomnia, and fatigue that increase their risk of developing cardiovascular disease. They may also have physical symptoms like chest pain, shortness of breath, and palpitations, which can lead to a heart attack if left untreated."
+471dac3193a87eae5154e7d5fdeae219e992368ee8a5de15ad472ef776b32252,cq,What should I do to avoid contacting urinary infect,"Your female classmate complains of painful urination, frequent urination and thinks she has Urinary Tract Infections and is going to visit the nearest doctor. Suggest an important question she might likely forget to ask. Please explain your question if needed. Don't ask generic questions.",[],[],,unknown,ZA,crowdsourced,"The most important question your classmate might forget to ask is:
+
+""Should I take any preventive measures before visiting the doctor?""
+
+This is crucial because it addresses the importance of maintaining good hygiene practices such as drinking plenty of water, avoiding irritants like caffeine or alcohol, and practicing proper hand washing. These actions can help prevent future infections and reduce the risk of spreading bacteria that could lead to UTIs.","Answer: Drink plenty of fluids like water, tea or coffee. Avoid drinking alcohol and caffeine. Avoid spicy foods. Avoid douching. Avoid sexual intercourse for 24 hours after taking antibiotics. Use condoms during sex. If you have a UTI, take antibiotics as prescribed by your doctor. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a UTI, drink cranberry juice. If you have a"
+b56e5fab5c848dab3cd33df4962b28815d0e140a4ee3b5d3a0a95ed87260590b,cq,Are there any specific steps I can take to prevent the recurrence of bronchitis or reduce my risk of developing complications?,"Your female coworker complains of cough, mucus production and thinks she has Bronchitis and is going to visit the nearest doctor.",[],[],,Pulmonary_Medicine,KE,crowdsourced,"Yes, there are several preventive measures you can take to help manage your condition and potentially reduce the risk of future episodes:
+
+1. **Avoid Irritants**: Stay away from smoke, dust, fumes, and other irritants that can trigger or worsen symptoms.
+2. **Stay Hydrated**: Drink plenty of fluids like water, tea, or broth to thin out mucus and make it easier to expel.
+3. **Use Humidifiers**: This can help moisten the air and ease breathing, especially at night when humidity levels naturally decrease.
+4. **Maintain Good Hygiene**: Regular hand washing with soap and water helps prevent the spread of germs that could cause infections.
+5. **Healthy Lifestyle Choices**: Eat a balanced diet rich in fruits and vegetables, exercise regularly, and avoid smoking if possible.
+6. **Manage Stress**: High stress levels can weaken the immune system, making you more susceptible to respiratory infections.
+7. **Follow Up Carefully**: If prescribed medication for bronchitis, follow up as directed by your healthcare provider. Completing the course of antibiotics (if necessary) can prevent reinfection.
+8. **Monitor Symptoms**: Keep track of how your symptoms change over time. If they persist or worsen, seek further","Yes, here are some tips that may help prevent the recurrence of bronchitis and reduce your risk of developing complications:
+
+1. Avoid exposure to smoke, dust, and other irritants.
+2. Practice good respiratory hygiene by covering your mouth when you cough or sneeze.
+3. Get vaccinated against influenza and pneumonia, as these infections can trigger or exacerbate bronchitis.
+4. Stay physically active, but avoid strenuous exercise for at least 48 hours after starting antibiotics.
+5. Maintain a healthy lifestyle with adequate sleep, balanced nutrition, and regular physical activity.
+6. Manage underlying conditions such as asthma, chronic obstructive pulmonary disease (COPD), and heart disease, which increase the risk of bronchitis.
+7. Consider smoking cessation if you smoke, as it increases the risk of bronchitis and other respiratory illnesses.
+8. Limit alcohol consumption, as excessive alcohol use can irritate the airways and worsen symptoms of bronchitis.
+9. Avoid contact with people who have respiratory infections, especially during outbreaks.
+10. Keep your home clean and free from mold, as mold spores can trigger allergic reactions and exacerbate bronchitis symptoms.
+11. Use humidifiers or steam inhalation to relieve nasal congestion and ease"
+3219b4c16396f3cc6689df7e5f72b9d6ea30fbce368a2f1367079dc94cd29286,cq,What should I do to lower my high blood pressure when I am at home alone ??,Your female classmate complains of high blood pressure during pregnancy and thinks she has Gestational Hypertension and is going to visit the nearest doctor.,[],[],,unknown,NG,crowdsourced,"Given your situation as a female classmate with high blood pressure during pregnancy, it's important to manage this condition carefully. Here are some steps you can take to help control your blood pressure:
+
+1. **Monitor Blood Pressure Regularly**: Use a reliable blood pressure monitor at home to check your readings regularly. This will allow you to track any changes in your blood pressure over time.
+
+2. **Maintain a Healthy Lifestyle**:
+   - **Eat a Balanced Diet**: Consume foods rich in potassium (like bananas), magnesium (almonds), calcium (yogurt), and fiber (fruits and vegetables). Avoid or limit sodium intake.
+   - **Exercise Regularly**: Engage in light physical activities like walking or swimming for about 30 minutes most days of the week.
+   - **Stay Hydrated**: Drink plenty of water throughout the day.
+
+3. **Manage Stress**: Practice relaxation techniques such as deep breathing exercises, meditation, or yoga. Reducing stress levels can help lower blood pressure.
+
+4. **Avoid Triggers**: Limit alcohol consumption and avoid smoking if possible. These habits can increase blood pressure.
+
+5. **Follow Up with Healthcare Provider**: Since you mentioned visiting the nearest doctor, ensure that you follow up with your healthcare provider regarding your blood","• Take your medication as prescribed.
+• Drink plenty of fluids (water) to help flush out toxins from the body.
+• Avoid alcohol, caffeine, and smoking.
+• Eat a healthy diet with lots of fruits, vegetables, whole grains, lean protein, and low-fat dairy products.
+• Exercise for 30 minutes most days of the week.
+• Get enough sleep.
+• Manage stress through relaxation techniques such as deep breathing, meditation, or yoga.
+• Limit salt intake to less than 2,400 mg per day.
+• Monitor your blood pressure regularly.
+• Avoid hot tubs, saunas, and steam rooms.
+• Do not use illicit drugs.
+• Do not drink alcohol.
+• Do not smoke.
+• Do not consume more than two alcoholic beverages per week.
+• Do not consume more than one alcoholic beverage per day.
+• Do not consume more than three alcoholic drinks per occasion.
+• Do not consume more than four alcoholic drinks per occasion.
+• Do not consume more than five alcoholic drinks per occasion.
+• Do not consume more than six alcoholic drinks per occasion.
+• Do not consume more than seven alcoholic drinks per occasion.
+• Do not consume more than eight alcoholic drinks per occasion.
+• Do not consume more than nine alcoholic drinks per occasion.
+• Do"
+f550639dce0d96b08bd57e24e665c55c004d0da9c6e2084bde5755f820f3e337,cq,"""How can I prevent gallstones in the future?""",Your female coursemate complains of right upper abdominal pain and thinks she has Gallstones and is going to visit the nearest doctor.,[],[],,unknown,NG,crowdsourced,"Gallstones are small, hard deposits that form in the gallbladder. They are more common in women than men and often occur without symptoms. Here are some general recommendations for preventing gallstones:
+
+1. **Maintain a Healthy Weight**: Excess weight increases the risk of developing gallstones. Maintaining a healthy body mass index (BMI) helps reduce this risk.
+2. **Eat a Balanced Diet**: A diet rich in fruits, vegetables, whole grains, lean proteins, and low-fat dairy products can help lower the risk of gallstone formation.
+3. **Limit Fatty Foods**: Reducing intake of high-fat foods may decrease the likelihood of gallstone formation.
+4. **Stay Hydrated**: Drinking plenty of water throughout the day can aid digestion and potentially reduce the formation of gallstones.
+5. **Regular Exercise**: Regular physical activity can improve overall health and possibly reduce the risk of gallstone development.
+6. **Avoid Rapid Weight Loss**: Rapid weight loss can increase the production of bile, which might lead to gallstone formation.
+7. **Monitor Medications**: Certain medications like aspirin or ibuprofen have been associated with an increased risk of gallstone formation. If you take these drugs regularly, discuss with your healthcare provider if they could be","• Avoid alcohol consumption 
+• Avoid high fat diet 
+• Eat more fiber-rich foods like fruits, vegetables, whole grains, etc. 
+• Drink plenty of water 
+• Lose weight if you are overweight 
+• Do regular exercise 
+• Take vitamin E supplements (20 mg daily) for 6 months before surgery 
+• Take cholestyramine or colestipol orally for 3 weeks before surgery 
+• Take probiotics (Lactobacillus acidophilus) orally for 1 week before surgery 
+• Take n/a for 4 days before surgery"
+5d0cb693ffef51cb20b07823c38f86a71aa3af3d897e9872104415aeeb22a154,cq,What hygienic practices or products can I use to avoid future episodes of Folliculitis?,"Your male classmate complains of infected, inflamed hair follicles and thinks he has Folliculitis and is going to visit the nearest doctor.",[],[],,Dermatology,KE,crowdsourced,"To prevent future episodes of Folliculitis, it's important to maintain good hygiene and follow these steps:
+
+1. **Gentle Shampooing**: Use mild, non-irritating shampoos that don't contain harsh chemicals. Avoid hot water as it can strip natural oils from your scalp.
+
+2. **Regular Scalp Care**: Regularly wash your hair with a gentle shampoo at least once a day. This helps remove excess oil and dead skin cells without stripping the scalp of its natural oils.
+
+3. **Avoid Harsh Products**: Stay away from styling products like gels, mousses, and sprays which can irritate the scalp and cause inflammation.
+
+4. **Use Anti-Dandruff Shampoos**: If you have dandruff, choose an anti-dandruff shampoo formulated for sensitive scalps. These products help reduce flaking and irritation.
+
+5. **Moisturize**: Apply a light moisturizer after washing your hair to lock in moisture and keep the scalp hydrated.
+
+6. **Avoid Tight Hairstyles**: Wearing tight hairstyles (like ponytails) can trap heat and sweat, leading to increased friction and potential for folliculitis.
+
+7. **Sun Protection**: Protect your scalp from direct sunlight by wearing hats or","Wash your hands before touching the affected area, avoid sharing personal items like towels or combs, and use antibacterial soap or alcohol-based hand sanitizer."
+9da6146dd6d0167da99441902c338e9f3774cceb84940c45467c7c45041902fa,cq,"Besides taking medication, what other natural ways I can practice?","Your male roommate complains of runny nose, sneezing and thinks he has Allergic Rhinitis and is going to visit the nearest doctor.",[],[],,Pulmonary_Medicine,ZA,crowdsourced,"Besides taking medication, you can try several natural remedies that might help alleviate your roommate's symptoms:
+
+1. **Steam Inhalation**: Inhaling steam from hot water or a vaporizer can help clear nasal passages by loosening mucus.
+2. **Saline Nasal Irrigation (SNIR)**: Using a saline solution to rinse the nasal cavity can help reduce inflammation and congestion.
+3. **Humidifier Use**: Running a humidifier at home can add moisture to the air, which may help soothe irritated sinuses.
+4. **Avoid Triggers**: Identify and avoid known allergens such as pollen, dust, or pet dander.
+5. **Warm Compresses**: Applying warm compresses to the face can help relieve sinus pressure and discomfort.
+6. **Gentle Exercise**: Light exercise like walking or yoga can help improve overall respiratory function and circulation.
+7. **Hydration**: Drinking plenty of fluids helps thin out mucus and keeps the body hydrated.
+8. **Healthy Diet**: Eating foods rich in vitamin C and E, zinc, and omega-3 fatty acids can support immune system health.
+9. **Sleep Well**: Ensuring adequate sleep can help with recovery and overall well-being.
+
+These methods should complement any prescribed treatments and provide","• Avoidance of allergens 
+• Antihistamines 
+• Nasal corticosteroids 
+• Saline nasal rinses 
+• N:A2 glutamine 
+• Vitamin C 
+• Vitamin D 
+• Omega 3s 
+• Probiotics 
+• Echinacea 
+• Ginger root 
+• Garlic 
+• Honey (for children) 
+• Quercetin 
+• Turmeric 
+• Ginkgo biloba 
+• Stinging nettle 
+• Butterbur 
+• Licorice root 
+• Marshmallow root 
+• Slippery elm 
+• Aloe vera 
+• Chamomile tea 
+• Peppermint oil 
+• Lavender oil 
+• Eucalyptus oil 
+• Tea tree oil 
+• Thyme oil 
+• Rosemary oil 
+• Sage leaf extract 
+• Oatmeal baths 
+• Steam inhalation 
+• Hot compresses 
+• Cold compresses 
+• Humidifier 
+• Air purifier 
+• Clean air filter 
+• Keep windows closed during pollen season 
+• Use HEPA filters 
+• Vacuum regularly with a HEPA vacuum cleaner 
+• Wash bedding weekly in hot water 
+• Change pillowcases daily or every other day 
+• Do not smoke or allow others to smoke in your home"
+5706ce370778715b78b0ddc7d806b2d1f0b5f19ebdeccb2987223ca686a40a58,cq,What would be the best way to act on anaphylactic emergency?,"Your male colleague complains of severe allergic reaction, difficulty breathing and thinks he has Anaphylaxis and is going to visit the nearest doctor.",[],[],,Allergy_and_Immunology,UG,crowdsourced,"In the context of an anaphylactic emergency, the following steps should be taken immediately:
+
+1. **Assess the Patient**: Check for signs of respiratory distress, swelling, or loss of consciousness.
+2. **Administer Epinephrine**: Administer 0.5 mg (for adults) or 0.3 mg (for children) intramuscularly as soon as possible. Repeat if necessary every 5 minutes until help arrives or symptoms improve.
+3. **Closely Monitor**: Watch for signs of improvement or worsening of symptoms.
+4. **Call Emergency Services**: Contact emergency services or have someone call them while you continue to monitor the patient.
+5. **Provide Information**: Provide information about the patient's condition, including any known allergies, medications, and recent exposures to allergens.
+6. **Prepare for Further Action**: Have additional epinephrine ready and prepared to administer it again if needed.
+
+Epinephrine is the first-line treatment for anaphylaxis because it reverses the effects of the immune system's overreaction by constricting blood vessels and increasing heart rate. It is crucial to act quickly to prevent further complications from this potentially life-threatening condition.","• Call 911 or your local emergency number.
+• Administer epinephrine (adrenaline) as directed by the package insert.
+• Administer subcutaneous epinephrine (EpiPen) if available.
+• Administer intramuscular epinephrine (EpiPen) if available.
+• Administer oral antihistamines like cetirizine or loratadine.
+• Administer corticosteroids like dexamethasone.
+• Administer oxygen via nasal cannula or mask.
+• Administer IV fluids.
+• Monitor vital signs.
+• Keep patient calm and comfortable.
+• Do not give anything else orally.
+• Do not administer further medications.
+• Do not perform CPR.
+• Do not leave the patient unattended.
+• Do not delay transport to hospital.
+• Do not stop administration of epinephrine even after symptoms improve.
+• Do not use other forms of epinephrine for subsequent reactions.
+• Do not use more than one dose of epinephrine within 24 hours.
+• Do not use more than two doses of epinephrine within 6 hours.
+• Do not use more than three doses of epinephrine within 24 hours.
+• Do not"
+c8febe1f084b38eb11d446427dcc0e95f0f590b55c292bbde2e93d683ff1cf64,cq,What are the complications of her condition?,"Your female neighbor complains of bloody diarrhea, pain and thinks she has Dysentery and is going to visit the nearest doctor.",[],[],,Emergency_Medicine,KE,crowdsourced,"The complications of her condition could include dehydration due to persistent diarrhea, which can lead to electrolyte imbalances if not adequately replenished with fluids. Additionally, there's a risk of secondary infections such as bacterial or parasitic infections, especially if the source of contamination is not properly addressed. The presence of blood in the stool (hematochezia) suggests that the infection may be severe enough to cause inflammation or damage to the intestinal lining, potentially leading to more serious conditions like sepsis if it spreads systemically. Immediate medical attention is crucial for proper diagnosis and treatment to prevent these complications.","• Severe dehydration 
+• Shock 
+• Peritonitis 
+• Acute renal failure 
+• Septicemia 
+• Death"
+d09517b7534417c6e0a9805d5c8976b219a0c8f54f0d27e4b7587ac2d4be280a,cq,Can certain foods or supplements improve my skin condition or prevent it from worsening?,Your male friend complains of loss of skin pigment and thinks he has Vitiligo and is going to visit the nearest doctor.,[],[],,unknown,NG,crowdsourced,"While there's no specific evidence that certain foods or supplements can cure or prevent vitiligo, maintaining a healthy diet and lifestyle generally supports overall health and may indirectly benefit your skin condition. Here are some general dietary tips:
+
+1. **Balanced Diet**: Ensure you're consuming a balanced diet rich in fruits, vegetables, lean proteins, whole grains, and healthy fats. This helps maintain overall health and immune function.
+
+2. **Vitamin D**: Vitamin D plays a role in skin pigmentation. Foods high in vitamin D include fatty fish (like salmon), egg yolks, and fortified dairy products. Supplements might be beneficial if you have low levels.
+
+3. **Iron and Zinc**: These minerals are important for skin health. Iron-rich foods include red meat, poultry, beans, and dark leafy greens. Zinc is found in nuts, seeds, oysters, and shellfish.
+
+4. **Antioxidants**: Foods like berries, spinach, and tomatoes contain antioxidants which help protect against oxidative stress, potentially reducing inflammation and improving skin health.
+
+5. **Hydration**: Drinking plenty of water is crucial for overall health but also aids in skin hydration, which can contribute to better pigmentation.
+
+6. **Avoiding Harmful Substances**: Limit exposure to harsh chemicals and","Yes, some people believe that consuming foods rich in antioxidants like berries, nuts, and leafy greens can help protect against UV damage and potentially slow down the progression of vitiligo. Additionally, taking supplements such as vitamin C, E, and zinc may support skin health. However, more research is needed to determine their effectiveness for treating or preventing vitiligo."
+9281e8adf90ef81dfc728b28e0ac8a971815a07e3247a2cc59551254fa364310,cq,"Could there be any underlying triggers or allergens contributing to my allergic rhinitis, and how can I identify and manage them effectively?","Your male coworker complains of runny nose, sneezing, nasal congestion and thinks he has Allergic Rhinitis and is going to visit the nearest doctor.",[],[],,Otolaryngology,KE,crowdsourced,"Yes, there could be several underlying triggers or allergens that contribute to your allergic rhinitis. Common culprits include dust mites, pollen (especially during seasons with high pollen counts), mold spores, pet dander, and certain foods. Identifying these triggers involves careful observation and possibly allergy testing if necessary.
+
+To manage your condition effectively:
+
+1. **Identify Triggers**: Keep a diary noting what you eat, where you live, and when symptoms occur. This information can help pinpoint specific allergens.
+   
+2. **Avoid Triggers**: Try to avoid exposure to known triggers as much as possible. For example, stay indoors during peak pollen times, use air conditioning with HEPA filters, and keep pets out of bedrooms.
+
+3. **Allergy Testing**: Consider allergy testing to confirm trigger identification. Skin prick tests or blood tests for IgE antibodies can help determine which substances cause an allergic reaction.
+
+4. **Medications**: Over-the-counter antihistamines like loratadine or cetirizine can relieve symptoms by reducing histamine levels in the body. Antihistamines may also be prescribed by a healthcare provider.
+
+5. **Immunotherapy**: If allergies persist despite lifestyle changes and medication, immunotherapy (allergy shots","Yes, there could be underlying triggers such as dust mites, pollen, mold spores, pet dander, and certain foods that contribute to your allergic rhinitis symptoms. Identifying these triggers through allergy testing and avoiding exposure to known allergens is essential for effective management. Additionally, practicing good hygiene habits like regular cleaning and washing bedding can help reduce exposure to allergens."
+81aede4b6bcc6c64df2d22bc3e12d85b9b160edb66a85f5fc2ad8f3a6d1eb777,cq,What is the common cause for TB?,"Your female coworker complains of coughing blood, fever and thinks she has Tuberculosis (TB) and is going to visit the nearest doctor.",[],[],,Infectious_Disease,ZA,crowdsourced,"The most common cause of tuberculosis (TB) is Mycobacterium tuberculosis infection, which can lead to active disease characterized by symptoms such as cough with or without hemoptysis (coughing up blood), weight loss, night sweats, and fatigue. The diagnosis often requires a combination of clinical presentation, chest imaging, and laboratory tests including sputum smear microscopy and culture. Early diagnosis and treatment are crucial for effective management of TB.","Mycobacterium tuberculosis causes TB. It can be found in the lungs but also other parts of the body like the brain, spine, kidneys, bones etc. The bacteria spread from person to person through air when someone with active TB disease breathes or talks. People who have TB in their lungs can pass it to others if they don’t follow good hygiene practices like covering their mouth and nose while coughing or sneezing. TB spreads more easily among people who live together, share living spaces, work closely, or attend school or daycare centers. TB is contagious for 6 months after treatment starts. If you think you might have TB, see your doctor right away. Early diagnosis and treatment are very important to stop the spread of TB and prevent complications."

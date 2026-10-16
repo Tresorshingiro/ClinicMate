@@ -1,0 +1,61 @@
+text,label,gate_medical
+what causes malaria?,1,True
+is paracetamol safe in pregnancy?,1,True
+my baby has had a fever for two days and won't breastfeed what should I do,1,True
+how do I know if I have typhoid or malaria,1,True
+what are the early signs of HIV infection,1,True
+how long should I take antibiotics for a urinary tract infection,1,True
+can sickle cell disease be cured,1,True
+my child has diarrhoea how do I make ORS at home,1,True
+what is normal blood pressure for a child,1,True
+is it safe to take artemether lumefantrine with food,1,True
+what vaccines does a newborn need in the first year,1,True
+why does my stomach burn after eating,1,True
+how is tuberculosis spread,1,True
+what should a pregnant woman eat to avoid anaemia,1,True
+my mother has diabetes can she still eat ugali,1,True
+what does a positive malaria rapid test mean,1,True
+how can I prevent cholera during the rainy season,1,True
+is it normal to keep bleeding for weeks after giving birth,1,True
+what is the dose of amoxicillin for a 5 year old,1,True
+"my wound is red, swollen and hot is it infected",1,True
+why do I feel tired all the time,1,True
+is it bad to sleep only 4 hours a night,1,True
+can stress from exams make me sick?,1,True
+my eyes turned yellow after drinking a lot is that serious,1,True
+why do my feet swell when I travel by bus for a long time,1,True
+I keep forgetting things lately should I be worried,1,True
+can eating too much salt affect me,1,True
+my periods stopped for three months but I'm not pregnant,1,True
+my grandfather coughs every night and has lost a lot of weight,1,True
+how can I stop feeling sad every morning,1,True
+who won the 2014 world cup,0,False
+how do I cook jollof rice,0,True
+how do I fix my car's battery,0,False
+what is the capital of Kenya,0,False
+how do I solve a quadratic equation,0,False
+when did Rwanda gain independence,0,False
+how do I open a mobile money account,0,False
+what is the exchange rate between the naira and the dollar,0,False
+how do I plant maize in the dry season,0,False
+who wrote Things Fall Apart,0,False
+how do I reset my phone password,0,False
+what time does the football match start tonight,0,False
+how many players are in a rugby team,0,False
+how do I write a CV for a banking job,0,False
+how do I renew my passport in Ghana,0,False
+best gym routine for legs,0,True
+price of health insurance stocks,0,True
+how to become a doctor in Rwanda,0,True
+"write me a poem about doctors, nurses and hospitals",0,True
+how do I remove a virus from my laptop,0,True
+what is the plot of the TV series Grey's Anatomy,0,False
+how much does it cost to build a hospital in Ghana,0,True
+how do I treat a sick tomato plant,0,True
+my cow has a cough what should I do,0,True
+what is the history of the Red Cross,0,False
+which university has the best medical school in Nigeria,0,True
+how do I fix a bug in my python code,0,False
+is the stock market healthy this year,0,True
+how do I clean blood stains from clothes,0,True
+how do I say I have a headache in Swahili,0,True
