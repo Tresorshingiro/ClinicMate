@@ -1,0 +1,21 @@
+# Versions printed by the GPU setup cell of notebooks 04-08 (Kaggle, Python 3, one Tesla T4).
+# The deployed app has its own list in app/requirements.txt.
+torch==2.11.0
+transformers==5.16.1
+peft==0.20.0
+accelerate==1.14.0
+bitsandbytes==0.50.2
+datasets==4.8.5
+evaluate==0.4.6
+sentence-transformers==5.7.0
+scikit-learn==1.6.1
+pandas==2.3.3
+
+# Also used; versions were not recorded (Kaggle preinstalled or installed unpinned)
+numpy
+matplotlib
+statsmodels
+joblib
+huggingface_hub
+rouge_score
+bert_score

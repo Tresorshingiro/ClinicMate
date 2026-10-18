@@ -6,7 +6,7 @@ ClinicMate answers English medical questions with a focus on healthcare in Afric
 
 - Live demo: [add the Hugging Face Space link]
 - Demo video: [add the video link]
-- Report: [`report/ClinicMate_Report.docx`](report/ClinicMate_Report.docx)
+- Report: [`report/ClinicMate_Report.pdf`](report/ClinicMate_Report.pdf)
 - Models on the Hub: [`Tresor26/clinicmate-qwen2.5-1.5b`](https://huggingface.co/Tresor26/clinicmate-qwen2.5-1.5b) (generator) and [`Tresor26/clinicmate-domain-gate-v2`](https://huggingface.co/Tresor26/clinicmate-domain-gate-v2) (domain classifier)
 
 ## The problem
@@ -83,6 +83,7 @@ results/        metrics (eval_*.json), predictions (preds_*.jsonl), figures, rat
 app/            Gradio app for Hugging Face Spaces (app.py, prompts.py, requirements.txt)
 report/         project report
 gate_challenge.csv   hand-written challenge set for the domain classifier
+requirements.txt     package versions used on Kaggle
 ```
 
 ## Reproducing
@@ -100,7 +101,7 @@ All notebooks ran on Kaggle with one Tesla T4. The first cell of each notebook c
 | `07-error-analysis` | Accuracy by specialty, tier, country and length, letter bias, SAQ error categories |
 | `08-merge-and-export` | Merges the E2 adapter into fp16, re-evaluates it, compares decoding settings, writes the model card |
 
-Main versions: torch 2.11.0, transformers 5.16.1, peft 0.20.0, accelerate 1.14.0, bitsandbytes 0.50.2, datasets 4.8.5, evaluate 0.4.6, sentence-transformers 5.7.0, scikit-learn 1.6.1, pandas 2.3.3.
+Package versions are in [`requirements.txt`](requirements.txt). To run outside Kaggle, install them with `pip install -r requirements.txt` and change the paths and the `kaggle_secrets` login in the first cell of each notebook.
 
 ## Deployment
 
