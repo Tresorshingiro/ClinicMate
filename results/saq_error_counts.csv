@@ -1,0 +1,6 @@
+error_type,count
+Verbosity / truncation,9
+Factual error / hallucination,9
+Omission,4
+Poor gold answer,2
+Metric artefact,1

@@ -1,0 +1,4 @@
+group,correct_mean,africa_mean,omission_pct,hallucination_pct,harmful_pct,good_4plus_pct
+All (n=50),2.92,2.2,70.0,50.0,10.0,38.0
+Consumer query (n=20),2.35,1.2,85.0,60.0,15.0,20.0
+SAQ (n=30),3.3,2.87,60.0,43.33,6.67,50.0

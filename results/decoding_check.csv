@@ -1,0 +1,4 @@
+setting,rougeL,bertscore,looping_%,avg_words
+eval (rp 1.1),0.312,0.334,0.823,37.864
+rp 1.1 + no_repeat_4,0.284,0.308,0.0,37.823
+rp 1.2,0.226,0.232,0.0,68.712

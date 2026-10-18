@@ -1,0 +1,520 @@
+id,bucket,specialty,tier,question,rationale,pred,rougeL,bertscore,error_type
+a16d719ada5fb90f3ea8ce803128d1560db9e7d52ce454f6f37f4b0312f1c019,worst,Internal_Medicine,expert,Features of hyperkalemia include,"-Flattened p waves 
+-Broad QRS complexes 
+-Peaked t waves","a) N/a
+b) N/a
+c) N/a
+d) N/a
+e) N/a
+f) N/a
+g) N/a
+h) N/a
+i) N/a
+j) N/a
+k) N/a
+l) N/a
+m) N/a
+n) N/a
+o) N/a
+p) N/a
+q) N/a
+r) N/a
+s) N/a
+t) N/a
+u) N/a
+v) N/a
+w) N/a
+x) N/a
+y) N/a
+z) N/a",0.045977011500000005,-0.5284320116,
+693f483723b8c08d346383810c3bd1f71e166c7ce3b7429905a01818efaec014,worst,General_Surgery,expert,List four drugs implicated in the aetiology of acute pancreatitis,"antihypertensives (furosemide, enalapril, losartan) , 
+antibiotics (Co-trimoxazole, tetracycline) , 
+steroids, codeine, antiepileptics (carbamazepine, Valproic acid), 
+thiopurines (azathioprine, mercaptopurine) antiretrovirals,
+chemotherapeutics. steroids ( dexamethasone, prednisolone), 
+5-aminosalicylates (e.g. sulphasalazine, mesalazine).","a) Acute cholangitis 
+b) Cholelithiasis 
+c) Biliary tract infection 
+d) Cholecystectomy 
+e) Cholera",0.0487804878,-0.4541065991,
+63ca9c71b52fabf92263c881663efa1a98fcfb19c8bdb1d793b64129267268e9,worst,General_Surgery,expert,"A 65-year-old female, weighing 100 kg, with a history of hypertension underwent surgery for cancer of the right colon. The estimated blood loss was 800 m L and intra-operative urine output was 150 ml. A central venous catheter was inserted. The patient received 1,000 m L of normal saline and 1 unit of packed red blood cells during surgery. Admission to the ICU was requested because the patient was slow to awaken from anesthesia. He arrived in the ICU on mechanical ventilation. Vital signs in the first hour included BP 110/50, HR 120, urine output of 25 m L for the hour, and a temperature of 35.4°C. 
+List the investigation you would request in this patient?","Chest X-ray is needed to evaluate the placement of the central venous catheter (CVC) and endotracheal tube (ETT)
+An arterial blood gas (ABG) to assess ventilation/oxygenation
+A complete blood count 
+Urea and electrolytes","• CBC, ESR, CRP, LFTs, Coagulation screen, D-Dimer, FBC, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs, LFTs",0.0,-0.4499170482,
+c66f1a049b28c9f3f54888bc84a59542042fb635713d3845816cdfacda287226,worst,General_Surgery,expert,List THREE (3) contraindications for liver resection in a patient with HCC.,"Large tumour size (> 4cm), Multifocal disease (>3 nodules), extrahepatic metastasis, vascular /portal vein invasion, Poor performance status (ECOG score)","• Severe coagulopathy 
+• Active bleeding 
+• Uncontrolled ascites 
+• Hypotension 
+• Severe hepatic encephalopathy 
+• Acute cholangitis 
+• Massive splenomegaly 
+• Peritoneal seeding of tumor 
+• Intra-abdominal abscess 
+• Severe renal failure 
+• Severe cardiac disease 
+• Severe respiratory distress 
+• Severe neurological deficits 
+• Severe metabolic acidosis 
+• Severe electrolyte imbalance 
+• Severe hypothermia 
+• Severe hyperbilirubinemia 
+• Severe hemolysis 
+• Severe thrombocytopenia 
+• Severe anemia 
+• Severe neutropenia 
+• Severe immunosuppression 
+• Severe sepsis 
+• Severe infection 
+• Severe trauma 
+• Severe shock 
+• Severe pulmonary edema 
+• Severe heart failure 
+• Severe arrhythmias 
+• Severe hypertension 
+• Severe tachycardia 
+• Severe bradycardia 
+• Severe hypotension 
+• Severe hypoxia 
+• Severe respiratory insufficiency 
+• Severe respiratory distress 
+• Severe respiratory failure",0.018691588800000002,-0.4433609545,
+5380a57cef9fc1da1c64a5a519550f2cb51e0796b98c4d0e45f6aa3b1ee091cf,worst,Internal_Medicine,expert,tumour markers for pancreatic cancer:,CA 19-9 (carbohydrate associated antigen aka sialylated lewis antigen),"a) CA 19-9 
+b) CEA 
+c) CA 72-4 
+d) CA 153 
+e) CA 125 
+f) AFP 
+g) HCG",0.2,-0.40513151880000003,
+75521ea030a26570b7a2a89e1dbee962d053291505b41ce197ffbbe8c57dbc86,worst,Obstetrics_and_Gynecology,expert,List the complications of intrauterine contraceptive Devices,"Intrauterine Contraceptive Devices (IUCDs) are generally safe and effective, but like any medical device, they can cause complications. Here are some possible complications of IUCDs:
+
+1. _Perforation_: The IUCD can puncture the uterus, which can lead to infection, adhesions, or damage to surrounding organs.
+
+2. _Expulsion_: The IUCD can be pushed out of the uterus, making it ineffective.
+
+3. _Infection_: Bacterial infection, such as pelvic inflammatory disease (PID), can occur.
+
+4. _Bleeding and spotting_: Irregular bleeding, spotting, or heavy menstrual bleeding can occur.
+
+5. _Cramping_: Mild to severe cramps can occur during or after insertion.
+
+6. _Allergic reaction_: Rarely, an allergic reaction to the materials used in the IUCD can occur.
+
+7. _Embedment_: The IUCD can become embedded in the uterine wall, making removal difficult.
+
+8. _Pregnancy complications_: If pregnancy occurs with an IUCD in place, there's a higher risk of ectopic pregnancy, miscarriage, or preterm labor.
+
+9. _Uterine damage_: The IUCD can cause uterine damage, such as adhesions or scarring.
+
+10. _Difficulty removing the IUCD_: The IUCD can be difficult to remove, which may require surgical intervention.
+
+11. _Hormonal side effects_ (for hormonal IUCDs): Mood changes, breast tenderness, acne, or weight gain can occur.
+
+12. _String problems_: The strings attached to the IUCD can cause discomfort, bleeding, or expulsion.","• Infection 
+• Ectopic pregnancy 
+• Bleeding 
+• Miscarriage 
+• Infertility 
+• Pelvic inflammatory disease (PID) 
+• Uterine perforation 
+• Cervical stenosis 
+• Adhesions 
+• Ovarian torsion 
+• Ovarian hyperstimulation syndrome 
+• Endometrial injury 
+• Malignancy 
+• Vaginal bleeding 
+• Pain 
+• Dysmenorrhea 
+• Abdominal pain 
+• Pelvic pain 
+• Hemorrhage 
+• Amenorrhea 
+• Infertility 
+• Miscarriage 
+• Ectopic pregnancy 
+• Infection 
+• Bleeding 
+• Pregnancy 
+• Inflammation 
+• Perforation 
+• Torsion 
+• Adhesion 
+• PID 
+• Uterine perforation 
+• Cervical stenosis 
+• Ovarian stenosis 
+• Ovarian hyperstimulation syndrome 
+• Endometrial injury 
+• Malignancy 
+• Vaginal bleeding 
+• Pain 
+• Dysmenorrhea 
+• Abdominal pain 
+• Pelvic pain 
+• Hemorrhage 
+• Amenorrhea 
+• Infertility 
+• Miscarriage 
+• Ectopic pregnancy",0.0709219858,-0.36010476950000003,
+bbf69fd1ad8f24689e1a7465323ee930682dacfc1c5fffe0504addc1d01a590a,worst,General_Surgery,expert,"In few words state the standard treatment of first choice after these diagnoses are confirmed
+
+- Fibroadenosis 
+- Fibroadenoma 
+- Galactocele 
+- Phylloides tumor 
+- Breast cyst Rx 
+- Mastitis","- Fibroadenosis Rx – Analgesics (NSAIDs)
+- Fibroadenoma Rx - Analgesics
+- Galactocele Rx Repeated aspirations
+- Phylloides tumor Rx – Wide excision
+- Breast cyst Rx – Aspiration or Enucleation 
+- Mastitis – Antibiotics/analgesics",N/a,0.0,-0.2959264219,
+a1d47a3910c9f9ceec340d173002fb703a413bbd51509d212b8f78206ad48c93,worst,General_Surgery,expert,What’s a positive DPL,"• At least 10mls of gross blood 
+• RBC count at least 100000/ml 
+• WBC count at least 500 cells/ml 
+• Amylase >19 iu/l 
+• Food, bile or bacteria 
+• ALP > 2IU/l 
+• Bilirubin > 0.01mg/dl",A positive DPL is when the patient has been exposed to HIV but does not have antibodies to it. This can happen if they were recently infected or if their immune system is fighting off the virus. It's important for them to get tested again after 6 months to confirm that they haven't contracted HIV.,0.021978022,-0.277946949,
+b61a4c06cde411fe9f020c29ff935b813e35c0a1eb73f1ab7412dee909983f6b,worst,unknown,crowdsourced,"Malaria Rationale: Malaria is a major cause of AKI in sub-Saharan Africa due to its effects on renal function, including hemolysis, intravascular volume depletion, and sequestration of infected red blood cells in the renal microvasculature.","Malaria is a major cause of AKI in sub-Saharan Africa due to its effects on renal function, including hemolysis, intravascular volume depletion, and sequestration of infected red blood cells in the renal microvasculature.",Answer: N:A,0.0540540541,-0.27588942650000003,
+d5d52e1e0d4bf86a228361d20cf459bfe551e10da8bc12fd653f372cea6e8720,worst,General_Surgery,expert,List any 6 common features associated with leg ulcers,"Commonly found on the lower leg and ankle
+Sunken, asymmetrically shaped wound
+The edges of the ulcer are clearly defined from the surrounding skin
+The surrounding skin is intact, but inflamed
+The surrounding skin may be pigmented, hardened or calloused
+Yellowish-white exudate (pus)
+Pain, particularly while standing
+Varicose veins in the leg.
+Venous insufficiency
+Arterial ulcers
+Neuropathic ulcers
+Pressure ulcers
+Trauma
+Chronic wounds
+Co-morbidity","• Venous insufficiency 
+• Chronic venous disease 
+• Varicose veins 
+• Deep vein thrombosis 
+• Thromboembolic phenomena 
+• Infection 
+• Ulceration 
+• Hyperpigmentation 
+• Hypertrophic scar 
+• Lymphedema 
+• Eczematous skin 
+• Nodular fibrosis 
+• Fibrotic contracture 
+• Skin necrosis 
+• Necrolysis 
+• Ischemia 
+• Gangrene 
+• Myocardial infarction 
+• Stroke 
+• Acute respiratory distress syndrome 
+• Sepsis 
+• Septic shock 
+• Organ failure 
+• Death",0.0555555556,-0.26188972590000004,
+6e5e3d8717653d4195da3ac2d4d09a8dc3e7557025bbd837f0af75201a5850d9,worst,General_Surgery,expert,Indications of surgery in upper GI bleeding,"a) If the patient requires transfusion greater than 6 units 
+b) Non-transfusable patient
+c) Failed endoscopic therapy.","• Resuscitation 
+• Massive hemorrhage ( > 1000 ml) 
+• Bleeding that is uncontrolled despite maximal medical therapy 
+• Bleeding with signs of shock 
+• Bleeding from perforated ulcer or esophageal varices 
+• Bleeding from Mallory-Weiss syndrome 
+• Bleeding from angiodysplasia 
+• Bleeding from esophagogastric varices 
+• Bleeding from esophageal varices after endoscopic band ligation 
+• Bleeding from esophageal varices after transjugular intrahepatic portosystemic shunt (TIPS) 
+• Bleeding from esophageal varices after splenorenal shunting 
+• Bleeding from esophageal varices after portal vein embolization 
+• Bleeding from esophageal varices after percutaneous ethanol ablation 
+• Bleeding from esophageal varices after radiofrequency ablation 
+• Bleeding from esophageal varices after balloon tamponade 
+• Bleeding from esophageal varices after endoscopic sclerotherapy 
+• Bleeding from esophageal varices after endoscopic band ligation 
+• Bleeding from esophageal varices after TIPSS",0.0152671756,-0.2262814641,
+3b3cbab1bb806c78375e5b0f62c01d6e69054b3b3902dd6076397361d094f5d8,worst,Internal_Medicine,expert,What is the Mentzer Index & what does it indicate?,"Mentzer Index: MCV/RBC
+If > 13 --- Iron deficiency anemia 
+If < 13 --- Thalassemia/trait","The Mentzer index (MI) is a measure of the degree of hypoxia or hypercapnia in patients with respiratory failure. It is calculated by dividing the partial pressure of oxygen (PaO2) by the fraction of inspired oxygen (FiO2). A low MI (<0. 8) indicates severe hypoxemia, while a high MI (>1. 5) suggests hypercapnia. The MI can help guide resuscitation strategies and assess the need for mechanical ventilation.",0.05,-0.21956008670000002,
+bfe899a3f30fc2cb258b2f5438491c5472140ab272a78c3a62dbcff4b5ce1117,worst,General_Surgery,expert,Give indications for surgery in a patient with peptic ulcer disease,"Perforation, 
+bleeding, 
+intractable pain, 
+recurrences despite treatment, 
+gastric outlet obstruction, 
+suspected neoplasm","• Bleeding 
+• Perforation 
+• Obstruction 
+• Malignancy 
+• Recurrent ulcers 
+• Refractory symptoms 
+• Intractable pain 
+• Severe dyspepsia 
+• Massive bleeding 
+• Massive hematemesis 
+• Massive hemoptysis 
+• Massive hematochezia 
+• Massive hematuria 
+• Massive epistaxis 
+• Massive rectal bleeding 
+• Massive vaginal bleeding 
+• Massive urogenital bleeding 
+• Massive hemorrhagic stroke 
+• Massive intracranial hemorrhage 
+• Massive splenic rupture 
+• Massive cardiac tamponade 
+• Massive pulmonary embolism 
+• Massive bowel obstruction 
+• Massive peritonitis 
+• Massive sepsis 
+• Massive shock 
+• Massive anaphylactic reaction 
+• Massive allergic reaction 
+• Massive transfusion 
+• Massive blood loss 
+• Massive fluid resuscitation 
+• Massive fluid overload 
+• Massive electrolyte imbalance 
+• Massive acid-base imbalance 
+• Massive hypothermia 
+• Massive hyperthermia 
+• Massive metabolic alkalosis 
+• Massive metabolic acidosis 
+• Massive respiratory failure 
+• Massive renal failure 
+• Massive hepatic failure 
+• Massive coagulopathy 
+• Massive thrombocytopenia",0.0689655172,-0.2075102031,
+d50fb02fdc167d40ca7bb24e6f930596fd343c5139db04557b6dcb2a7f6dc610,worst,General_Surgery,expert,"A 68-year-old female with chronic constipation is brought with a history of rapid distension of the abdomen and constipation. She has had previous similar episodes, which have been treated conservatively. Abdominal X-ray reveals ‘coffee bean’ sign.
+What is the diagnosis?",Sigmoid Volvulus - a type of Mechanical Intestinal Obstruction,"The diagnosis is 
+a) Acute cholelithiasis 
+b) Cholelithiasis 
+c) Choledocholithiasis 
+d) Cholecystolithiasis",0.1,-0.2032733113,
+40c6a6fd397847ca01ccb4eb96ea089697bc303fc2e2c8563239e27dde44bf50,worst,unknown,crowdsourced,What are the recommended vaccination schedules for infants in Nigeria?,"The recommended vaccination schedule for infants in Nigeria includes vaccines against tuberculosis (BCG), hepatitis B, diphtheria, pertussis, tetanus (DPT), Haemophilus influenzae type b (Hib), polio (OPV), pneumococcal disease (PCV), and measles. These vaccines are administered at specific ages according to the National Immunization Schedule.","The recommended vaccination schedule for infants in Nigeria includes:
+• 0, 1, 2, 3, 4, 5, 6 months of age (primary series)
+• 8, 10, 12, 14, 16, 18, 20 months of age (booster doses)
+• 2, 4, 6, 10, 14, 18 years of age (catch-up doses)",0.2247191011,-0.1846669763,
+eb555faafd7217d8403f02f59c1b8cd5f9e94e406f9f4b6d80685704fe36f7bd,worst,General_Surgery,expert,Define 3 rd spacing,"• Third spacing – fluid accumulation in spaces that normally contain minimal fluid volumes (e.g., the peritoneal or pleural cavities) during surgery, anaesthesia or as a result of inflammatory conditions (e.g., sepsis).","• The presence of large amounts of purulent exudate 
+• Absence of white blood cells 
+• Increased fibrinogen levels 
+• Elevated ESR 
+• High C-reactive protein (CRP) levels 
+• Low albumin levels 
+• N/a",0.0655737705,-0.1823548228,
+107cd60af403e6dda8103087183c29ed2896c4ee071d56cb39a43a8a7f11a648,worst,Pediatrics,expert,What are the long-term side effects of oral corticosteroid use in children.,"Glucocorticoids are important in the treatment of many inflammatory, allergic, immunologic and malignant disorders. The toxicity of glucocorticoids is one of the most common causes iatrogenic illness. 
+
+The adverse events of glucocorticoids are more common in patients receiving high doses over a long period of time. 
+
+Glucocorticoids have adverse effects on many organ systems for example: 
+
+Skin and soft tissue, skin thinning and purpura, non-melanoma skin cancers , Cushingoid appearance and weight gain 
+
+The eye, the risks of both cataracts and glaucoma is increased in patients with glucocorticoids 
+
+Cardiovascular disease, is associated with an increased risk of ischaemic heart disease, heart failure and atherosclerosis 
+
+Gastrointestinal tract, increase the risk of gastric bleeding. 
+Kidney and systemic hypertension 
+
+Genitourinary and reproductive system, can cause long-term menstrual irregularities in woman and can lower fertility in both men and women 
+
+Musculoskeletal, osteoporosis one of this most serious side-effects, Vetebral fractures, Osteonecrosis, Muscle weakness 
+
+Growth, growth impairment is commonly seen in children receiving glucocorticoids, effect is most pronounced in daily therapy may be less with an alternate day regime. 
+
+Central nervous system, glucocorticoids induce a range of psychiatric and cognitive symptoms such as mood disorders psychosis memory impairment 
+
+All children receiving high-dose long-term glucocorticoids should be actively monitored for long-term side-effects.","a) Osteoporosis 
+b) Dental problems 
+c) Growth retardation 
+d) Delayed puberty 
+e) Adrenal insufficiency 
+f) Hyperkalemia 
+g) Hypertension 
+h) Diabetes mellitus 
+i) Cataracts 
+j) Glaucoma 
+k) Myopia 
+l) Nystagmus 
+m) Tachycardia 
+n) Hypotension 
+o) Increased risk of infection 
+p) Increased risk of malignancy 
+q) Increased risk of cardiovascular disease 
+r) Increased risk of osteopenia 
+s) Increased risk of fractures 
+t) Increased risk of hypertension 
+u) Increased risk of diabetes mellitus 
+v) Increased risk of cataracts 
+w) Increased risk of glaucoma 
+x) Increased risk of myopia 
+y) Increased risk of nystagmus 
+z) Increased risk of tachycardia 
+aa) Increased risk of hypotension",0.1153846154,-0.17201071980000002,
+6ecb67263e3a6aedc353898cc89ef1c781a802bb05d8332b2333a3408965e1b7,worst,Pediatrics,expert,Define triage in the care of children,"The process of rapidly screening sick children on arrival to hospital, with the aim of reducing death in the first 24 hours of admission. This is handled by the triage nurse. Where we categorized as Emergency, Priority and Queue.
+
+What the categories represent 
+a. Emergency which require lifesaving treatment.
+i. Absent or obstructed breathing 
+ii. Severe respiratory distress 
+iii. Central cyanosis
+iv. Signs of shock
+v. Coma 
+vi. Convulsions 
+vii. Signs of severe dehydration in a child with diarrhea
+
+b. Priority means the patients have to be given priority in the queue 
+i. Tiny baby – any sick baby under 2 months old 
+ii. Temperature – the child is very hot
+iii. Trauma and other surgical intervention 
+iv. Severe Pallor 
+v. Poisoning 
+vi. Pain – severe 
+vii. Respiratory distress 
+viii. Restless, continuously irritable, or lethargic
+ix. Referral – urgent 
+x. Malnutrition, visible severe wasting
+xi. Oedema of both feet
+xii. Burns 
+
+Queue – these are patients who neither have emergency of priority signs","Triage is the process of prioritizing patients based on their condition and need for immediate treatment. It involves assessing the severity of injuries or illnesses, determining the urgency of interventions, and allocating resources to provide appropriate care. Triage helps ensure that limited medical resources are used effectively by directing them to those who require urgent attention.",0.1121495327,-0.15440134700000002,
+fdc0ee623ff6c8425f05f1349bfe1f1786174d0c25a882ec1857ed0d81951c17,worst,Hematology,expert,Sickle Cell Disease: They are most associated with invasive bacterial infections (IBI) like,"i. Streptococcus pneumoniae
+ii. Non-typhoidal Salmonella species
+iii. Haemophilus influenzae type B (Hib)","Group A beta-hemolytic streptococcus, Staphylococcus aureus, Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, Enterobacter species, Proteus species, Salmonella species, Shigella species, Yersinia enterocolitica, Campylobacter jejuni, Helicobacter pylori, Mycobacterium tuberculosis, and various other pathogens.",0.17021276600000002,-0.1492155194,
+4fd0bfeb369948e860d78f687279e876d11efeedab8fc94dea23786d9d1c6dfe,worst,Pediatrics,expert,The diagnostic value of tests performed on pleural fluid,"Tests that are done help in establishing the following: 
+1. Decide whether the fluid is a transudate or exudate. 
+2. If the integrity of the pleural membrane is intact the fluid is a transudate. 
+3. Impaired integrity of the pleural membrane, with leakage of protein or other large molecules results in an exudate. 
+4. Decide if there is a bacterial or tuberculous infection. 
+5. Decide if there is a chyle in the fluid. 
+6. Determine the aetiology of the fluid. 
+
+Chemical separation of transudate and exudate. 
+Transudate: Has protein level of <3g/Dl, LDH < 2/3 of the upper level of serum, pleural/serum concentration ratio of protein of <0.5, pleural/fluid concentration ratio of LDH OF <0.6. 
+Exudate: Has a protein level of ≥ 3g/Dl, LDH > 2/3 of the upper level of serum, pleural/serum concentration ratio of protein ≥ 0.5, pleural/ serum concentration ratio of LDH of ≥ 0.6 
+Other tests: Bacterial cultures, cell count, adenosine deaminase, and gene X-pert, are also useful. 
+Pleural fluid pH > 7.45 or greater than blood Ph is consistent with transudate. Pleural fluid glucose levels are reduced with empyema, TB, and malignancy. A chylous effusion has a normal pleural fluid/ serum glucose concentration ratio ( > 0.5) and has chylomicrons.","a) Pleural fluid cytology 
+b) Pleural fluid protein gradient 
+c) Pleural fluid lactate dehydrogenase (LDH) 
+d) Pleural fluid ADA 
+e) Pleural fluid ESR 
+f) Pleural fluid glucose 
+g) Pleural fluid anaerobic culture 
+h) Pleural fluid Gram stain 
+i) Pleural fluid flow cytometry 
+j) Pleural fluid immunofluorescence 
+k) Pleural fluid enzyme immunoassay for LDH",0.14393939390000002,-0.1093212888,
+76d2f79fe6d1b161ca6b17387f9186c2d915e6419ea26bdd25efad3b010a93f9,worst,Internal_Medicine,expert,What are the complications of empyema,"a. Lung collapse 
+b. Sepsis","• Pneumothorax 
+• Hemothorax 
+• Pleural effusion 
+• Empyema capos 
+• Pyopneumothorax 
+• Lung abscess 
+• Mediastinal emphysema 
+• Lymphadenitis 
+• Malignant transformation 
+• Pulmonary fibrosis 
+• Chronic obstructive pulmonary disease (COPD) 
+• Bronchopleural fistula 
+• Chylothorax 
+• Severe hypoxia 
+• Respiratory failure 
+• Acute respiratory distress syndrome (ARDS) 
+• Sepsis 
+• Septic shock 
+• Death",0.0952380952,-0.09213712810000001,
+6afd5381fff653483146ad43e399b34b7a16074c975cd15b85f2b327160cfa23,worst,Obstetrics_and_Gynecology,expert,List the suture lines of the fetal skull and their corresponding bordering bones,"the suture lines of the fetal skull and their corresponding bordering bones:
+
+1. _Metopic suture_: Frontal bone (interfrontal suture)
+2. _Coronal suture_: Frontal bone and parietal bone
+3. _Sagittal suture_: Parietal bones (interparietal suture)
+4. _Lambdoid suture_: Parietal bone and occipital bone
+5. _Occipitomastoid suture_: Occipital bone and mastoid part of temporal bone
+6. _Sphenofrontal suture_: Sphenoid bone and frontal bone
+7. _Sphenoparietal suture_: Sphenoid bone and parietal bone
+8. _Sphenotemporal suture_: Sphenoid bone and temporal bone
+9. _Sphenosquamosal suture_: Sphenoid bone and squamous part of temporal bone
+10. _Petrosquamosal suture_: Petrous part of temporal bone and squamous part of temporal bone
+11. _Intermaxillary suture_: Maxilla bones (intermaxillary suture)
+12. _Internasal suture_: Nasal bones (internasal suture)
+13. _Nasofrontal suture_: Nasal bone and frontal bone
+14. _Zygomaticofrontal suture_: Zygomatic bone and frontal bone
+15. _Zygomaticotemporal suture_: Zygomatic bone and temporal bone
+16. _Zygomaticomaxillary suture_: Zygomatic bone and maxilla bone
+17. _Frontonasal suture_: Frontal bone and nasal bone
+18. _Parietomastoid suture_: Parietal bone and mastoid part of temporal bone","• Frontal line - frontal bone 
+• Bregma – parietal bones 
+• Temporal line – temporal bones 
+• Zygomatic line – zygomatic arches 
+• Sagittal line – coronal sutures 
+• Sphenomalar line – sphenomalar eminence 
+• Cribriform line – cribriform plate of ethmoid bone 
+• Parietal-sagittal line – parieto-sagittal suture 
+• Parietal-temporal line – parieto-temporal suture 
+• Parietal-frontal line – parieto-frontal suture 
+• Parietal-malar line – parieto-malar eminence 
+• Parietal-zygomatic line – parieto-zygomatic suture 
+• Parietal-occipital line – parieto-occipital suture 
+• Parietal-nasal line – parieto-nasal suture 
+• Parietal-inferior orbital rim line – parieto-inferior orbital rim 
+line",0.1927710843,-0.0921120569,
+06a80121bc615a8c27583a1e6b891e771fb97eab2244b523285042cfb08a32f4,worst,Internal_Medicine,expert,tumour markers for prostate cancer:,Prostate specific antigen,"a) Prostate specific antigen (PSA)
+b) Alpha-fetoprotein (AFP) - elevated levels may indicate metastasis
+c) Lactate dehydrogenase (LDH) - increased levels may indicate malignancy
+d) Carcinoembryonic antigen (CEA) - elevated levels may indicate metastatic disease
+e) Prostatic acid phosphatase (PAP) - elevated levels may indicate malignancy
+f) Tumor necrosis factor-alpha (TNFα) - elevated levels may indicate malignancy
+g) Interleukin-6 (IL-6) - elevated levels may indicate malignancy
+h) Cytokeratin 19 fragment (CYFRA20) - elevated levels may indicate malignancy
+i) Prostate-specific membrane antigen (PSMA) - elevated levels may indicate malignancy
+j) Prostate-derived growth factor (PDGF) - elevated levels may indicate malignancy
+k) Prostate-derived neurotrophic factor (Prostascidine) - elevated levels may indicate malignancy
+l) Prostate-specific glycoprotein (P-SGP) - elevated levels may indicate malignancy
+m) Prostate-specific protein (PSP) - elevated levels may indicate",0.0461538462,-0.0793735012,
+d4ed009111cb5c0b1e6c427571d6c3520fdd29def0fc9a170fba38b4419abf9f,worst,General_Surgery,expert,Investigations for Sigmoid volvulus,"a) Routine lab works. CBC, UECS 
+b) Inflammatory markers. CRP, ESR, pro calcitonin 
+• Imaging 
+a) Erect Plain abdominal X Ray 
+b) CT scan abdomen 
+c) Contrast studies","• Plain abdominal X-ray 
+• CT scan abdomen pelvis 
+• MRI of the abdomen and pelvis 
+• USG abdomen pelvis 
+• Abdominal tap 
+• Bloods – CBC, LFTs, ESR, CRP, UECs, RBCs, WBCs, platelets, Coagulation screen, FBC, LFTs, ESR, CRP, UECs, RBCs, WBCs, platelets, coagulation screen, blood cultures, urine culture, urinalysis, complete blood count, peripheral smear examination, liver function tests, renal function tests, electrolytes, full blood count, peripheral smear examination, coagulation screen, CEA, CA19-9, tumor markers, lactate dehydrogenase, amylase, lipase, prothrombin time, partial thromboplastin time, D-dimer, fibrinogen, tourniquet test, coagulation screen, cross match, crossmatch, crossmatch, crossmatch, crossmatch, crossmatch, crossmatch, crossmatch, crossmatch, crossmatch, crossmatch, crossmatch, crossmatch, crossmatch, crossmatch, crossmatch, crossmatch, cross",0.1052631579,-0.0701460913,
+d4162c74e97f3951fea07ef80cf12ef19c63a5d7f464b2a74a02b3c34c608c14,worst,Pediatrics,expert,"In a neonate with jaundice, what is the rationale of the following components in exam?
+Wellness, 
+Colour 
+Neurological 
+Umbilical","1. Wellness is assessed to help in differentiating whether the jaundice is physiological or pathological. ii. It is also used to assess whether the newborn is preterm or term 
+
+2. Colour is assessed to trace the severity of the jaundice which is the indication for phototherapy. [Bilirubin check: Palms and sores (15-20mg/dl), Arms and lower limbs {15-18mg/dl), Abdomen (12-14mg/dl), Chest (8-10mg/dl), Face (5- 6mg/dl)]
+
+3. Neurological 
+To assess if the bilirubin has crossed blood-brain barrier and affected the brain. For example, in Kernicterus which may lead to complication like cerebral palsy 
+
+4. Umbilical 
+a. To check for infections, to check if jaundice is accelerated with infections 
+b. Physical bruises
+c. To check for entry of infections through bruises, they may also show congenital syphilis","• Wellness: The baby should be well hydrated, have good skin turgor, normal breathing pattern, no cyanosis, and active movement.
+• Colour: Jaundiced babies will have yellowish discoloration of the skin and whites of the eyes (icterus). They may also have hyperbilirubinemia, which can lead to kernicterus if left untreated.
+• Neurological: N/a",0.1189189189,-0.0697420686,
+07e993f984d34e554d23c8e090452e0ce396e95e545076a0ab1f2a84b28ebd7f,best,unknown,crowdsourced,What indigenous African plant is used to manage symptoms of varicose veins?,Drinking tea made from dried leaves of the horse chestnut tree (Aesculus hippocastanum) or consuming horse chestnut supplements is believed to help improve blood circulation and alleviate symptoms of varicose veins in Africa.,"Drinking tea made from dried leaves of the moringa tree (Moringa oleifera) or consuming moringa supplements is believed to help reduce inflammation, improve circulation, and alleviate symptoms of varicose veins in some African communities.",0.7462686567,0.6294988394000001,
+a5b43f89cd56754e5cfb422f48667ad8f8e7acc75c2a178df4a446aab162a9d1,best,unknown,crowdsourced,What is the first-line treatment for uncomplicated toxoplasmosis in non-pregnant women in Africa?,Oral pyrimethamine plus sulfadiazine is the first-line treatment for uncomplicated toxoplasmosis in non-pregnant women in Africa due to their effectiveness in killing Toxoplasma gondii parasites and reducing the duration and severity of symptoms. Treatment should be administered under medical supervision and monitored for potential adverse effects.,Oral sulfadiazine (SD) or trimethoprim-sulfamethoxazole (TMP-SMX) is the first-line treatment for uncomplicated toxoplasmosis in non-pregnant women in Africa due to its effectiveness against Toxoplasma gondii infection. Treatment should be administered under medical supervision and monitored for potential side effects.,0.7252747253,0.6527227759,
+7b09507045f5e7475ee4acb1cbbbb88e7eb5a3affd76328649ddf5e6a807fed1,best,unknown,crowdsourced,What are the unique challenges in managing tuberculosis in Africa?,"Challenges include limited access to healthcare, poor adherence to treatment, and high rates of drug resistance, leading to higher rates of treatment failure and transmission.","Challenges include limited access to diagnostic tests, lack of trained personnel for treatment, and high rates of drug resistance.",0.5454545455,0.6645441651,
+74b872966b621f958ff9018df2618c3b1e5bd61da5ab6d5d5f97cab2b6734e9a,best,unknown,crowdsourced,"What are the socio-economic determinants influencing access to education and healthcare for children with disabilities in East Africa, and how can inclusive policies and programs promote their rights and well-being?","Socio-economic determinants such as poverty, discrimination, and lack of accessibility hinder access to education and healthcare for children with disabilities in East Africa. Inclusive policies and programs, including inclusive education, community-based rehabilitation, and disability-inclusive healthcare services, can promote their rights and well-being by addressing barriers to participation and fostering social inclusion.","Socioeconomic factors such as poverty, lack of infrastructure, and discrimination contribute to barriers in accessing education and healthcare for children with disabilities in East Africa. Inclusive policies and programs that prioritize accessibility, early intervention services, and community-based rehabilitation initiatives can help ensure equitable opportunities for these vulnerable populations.",0.4615384615,0.6711345315,
+f688bd064ae09b6071e206dac8972d1bdcb5b6c9da322ea080506cfa979a9a6e,best,unknown,crowdsourced,"What are the main causes of maternal mortality in Africa, and how do they differ from those in developed countries?","The main causes of maternal mortality in Africa include hemorrhage, hypertensive disorders, sepsis, and obstructed labor, often due to limited access to skilled birth attendants and emergency obstetric care.","Main causes include hemorrhage, sepsis, hypertensive disorders, and obstructed labor, with inadequate access to skilled birth attendants being a significant factor.",0.56,0.6838847399,
+0d2e1a83f5da42d72d6cd72e60c215977281b85a888cb5cfe00fc608b4f1d508,best,unknown,crowdsourced,What is the primary method used for diagnosing malaria in pregnant women in Africa?,"Rapid diagnostic tests (RDTs) for malaria are the primary method used for diagnosing malaria in pregnant women in Africa, providing rapid results to guide appropriate treatment and management.",The rapid diagnostic test (RDT) is the primary method used for diagnosing malaria in pregnant women in Africa due to its accuracy and ease of use.,0.6666666667000001,0.6953169107,
+648cb7e69b63d1be2500b60ae6fcf4ceb6467606eb7d93a5006c567d99e2d116,best,unknown,crowdsourced,What are the socioeconomic factors contributing to the high prevalence of non-communicable diseases like diabetes and hypertension in urban African populations compared to developed countries?,"Urbanization, changes in lifestyle behaviors, limited access to healthy foods, and disparities in healthcare access contribute to the high prevalence of non-communicable diseases in urban African populations.","Urbanization, sedentary lifestyles, poor diet, and limited access to healthcare contribute to higher rates of NCDs in urban African populations.",0.5416666667,0.6981125474000001,
+5a373b84b381b22d7d9575c560d1fcefa0fa8876b8ebaf9cbc21539e77c080f3,best,unknown,crowdsourced,"What is the primary mode of transmission of Mycobacterium ulcerans, the causative agent of Buruli ulcer, in Africa?","Mycobacterium ulcerans is primarily transmitted through contact with contaminated water sources in Africa, particularly in rural areas where there is frequent exposure to stagnant or slow-flowing water.","Mycobacterium ulcerans is primarily transmitted through contact with contaminated water sources or soil, particularly in areas where there is poor sanitation and limited access to clean drinking water.",0.6785714286,0.7031652331,
+8e8c2f243ced855a9c6c727e842b59b1ffb32e8c5bdc9a4056356a52da5bc765,best,General_Surgery,expert,Common sites of metastasis of colorectal ca,"• Liver
+• Lungs 
+• Brain","• Liver 
+• Lung 
+• Brain 
+• Bone",0.8571428571,0.7374103069,
+fe1decc463a008679f5a0657979635808e619d358bc6388cf283c2c917a4869a,best,unknown,crowdsourced,Which viral infection is a leading cause of liver cancer in Africa?,Hepatitis C virus (HCV) infection is a leading cause of liver cancer in Africa.,Hepatitis B virus (HBV) infection is a leading cause of liver cancer in Africa due to its ability to damage the liver over time.,0.6315789474,0.8181110024,
